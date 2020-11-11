@@ -1,4 +1,4 @@
-# ☶ Ackueli ☶
+# ☶ Acktueli ☶
 _the language of === Shielkwamm ===_
 
 ## Basic
