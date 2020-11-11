@@ -1,110 +1,154 @@
-# Vulcan Next
+# ☶ Ackueli ☶
+_the language of === Shielkwamm ===_
 
-![vulcan-next-starter banner](https://raw.githubusercontent.com/VulcanJS/vulcan-next-starter/devel/public/img/vn-logo-full-1280-640.png)
+## Basic
+☶: +☶
 
-[Check the features](https://github.com/VulcanJS/vulcan-next-starter/tree/devel/src/pages/docs/features.md)
+The ☶: is the subject with the : being the dilimeter between the subject and the subject's reaction, +☶.
 
-[Read the introductory article](https://www.freecodecamp.org/news/how-to-replace-meteor-by-next-introducing-vulcan-next-starter/)
+☶ a generic acknowledgement
 
-## Install and run
+☶ @admin a generic acknowledgement to admin
 
-```
-git clone https://github.com/VulcanJS/vulcan-next-starter.git
-yarn
-yarn run dev
-```
+### Intensity
+☶☶ a salute
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-You can then access the live docs on [http://localhost:3000/docs](http://localhost:3000/docs).
+++☶☶☶ a cheer
 
-### Setup your own git
+### Positivity Indicators
++☶ happy
 
-```
-# Rename "origin" to "upstream", so you can use your own git repository as the main origin and VN official repo as "upstream"
-git remote rename origin upstream
-```
+++☶ joyous
 
-## Connect to a Vulcan backend
++++☶ ecstatic
 
-[If you don't know the awesome GraphQL framework Vulcan, get started here](http://vulcanjs.org/)
+### Negativity Indicators
+-☶ unhappy
 
-In another terminal, run a Vulcan application on `localhost:3001`:
+--☶ very unhappy
 
-```bash
-cd SomeVulcanApp
-meteor run --settings settings.json --port 3001
-```
+---☶ really, really, very unhappy
 
-Run Vulcan Next development server:
+### React and Expel
+-☶, an unhappy reaction
 
-```bash
-# We favour Yarn over NPM for commands
-NEXT_PUBLIC_GRAPHQL_URI="your-vulcan-server-url" yarn dev
-```
+-☶- @admin, an unhappy reaction, but also expels negativity to admin
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Emotion Modifiers
+/-☶ *half* unhappy (expresses some duality of emotions or ambivalence)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+[---]☶ *only a tiny bit* really, really, very unhappy
 
-## They support Vulcan Next and Vulcan Meteor
+?--☶ *questioning* very unhappiness
 
-### Contributors
+### Other Indicators
+x☶ anxious
 
-This project exists thanks to all the people who contribute.
+_☶ not amused
 
-<a href="https://github.com/VulcanJS/vulcan-next-starter/graphs/contributors"><img src="https://opencollective.com/vulcan/contributors.svg?width=890&button=false" /></a>
+o☶ suprised
 
-### Backers
+‾☶ seriousness, also can be represeted by ☶
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/vulcan#contribute)]
+### Null indicator
+#☴ contemplation without reaction or expelation
 
-<a href="https://opencollective.com/vulcan#contributors" target="_blank"><img src="https://opencollective.com/vulcan/backers.svg?width=890"/></a>
+### Clarification
+_☶/x+ *not amused, but go ahead and make an ass of yourself*
 
-### Sponsors
+### Clarity
+~ sometimes things aren't too clear
 
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/vulcan#contribute)]
+~☶, I think this is ☶, but not sure
 
-<a href="https://opencollective.com/vulcan#contributors" target="_blank"><img src="https://opencollective.com/vulcan/sponsors.svg?width=890"/></a>
+### Waves
+(( admin )) chilling out
 
-### Technical supports
+{{ admin }} stressing out
 
-They give time and share knowledge to support the project.
+({ admin )) admin was stressing out a little, but admin chills things out a bit
 
-<a href="https://aplines.com" target="_blank" rel="noopener noreferrer">
-<img src="https://aplines.com/wp-content/uploads/2020/06/logo-1.png" alt="aplines" height="75"/>
-</a>
-<a href="https://www.lbke.fr" target="_blank" rel="noopener noreferrer">
-<img src="https://www.lbke.fr/img/logo-md.png" height="75" alt="lbke" />
-</a>
+## Politeness
+* It is polite to only repeat 1 indicator in sequence 3 times ie +++☶ not ++++++☶.
 
-## Other cool Next stuff
+### Duality of Emotion
+{ [_]☴ & ☴/+ } *go ahead and redact that & oh that's fine* sometimes you agree with yourself
 
-- [Official Apollo example from Next](https://github.com/zeit/next.js/tree/canary/examples/with-apollo)
-- [Next Right Now](https://github.com/UnlyEd/next-right-now) (a complete Next Starter, relying on Prisma cloud solutions for the backend)
-- [Blitz](https://blitzjs.com/) (fullstack Next without GraphQL)
-- [Next Antd Graphql Starter](https://github.com/clement-faure/next-antd-graphql-starter)
-- [Next React Graphql Apollo Bootstrap](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap)
-- [Next advanced starter](https://github.com/borisowsky/next-advanced-starter),
-- [Next - Mongo](https://github.com/hoangvvo/nextjs-mongodb-app) (no Express, no GraphQL, just Next and Mongo)
-- [Next and TypeScript from the maker of next-transpile-modules](https://github.com/martpie/monorepo-typescript-next-the-sane-way)
+{ [_]☴ | ☴/+ } *go ahead and redact that | oh that's fine* and othertimes, you don't know the right answer
 
----
+*messy people don't put spaces between their brackets and their statements*
 
-# About Next
+## Passage of time
+The passage of time indicators usually have a logarythmic increase
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+. very short interval / placeholder for visual purposes
 
-## Learn More
+.. short interval or ; when _inline_
 
-To learn more about Next.js, take a look at the following resources:
+... longer interval
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+..... next interation
 
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
+If the passage of time indicators are _inline_, that means they are shorter, probably within the range of 5 seconds.
 
-## Deploy on ZEIT Now
+If the passage of time indicators are on a line by themselves, expect at the very least a minute has gone by.
 
-The easiest way to deploy your Next.js app is to use the [ZEIT Now Platform](https://zeit.co/) from the creators of Next.js.
+### Connection Emotions
+-☶... +☶, that made me unhappy, but i then realized it was the good thing to do.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Rising and Falling Emotion
+↑↑↓↑↓☶, this indicates that someone's reaction might change over time
+
+☶: +☶, @admin, I see that smile!
+
+admin: _☶↓↑↑↑↑↓↓↓↓↓↓↓↓_-☶ 
+
+### Weird Sequentiality Rules
+There is a lot of loose expression around sequentiality in Ackueli.
+
+In some cases, two statements in close sequence with two before indicators can be nearly summed up with one line instead.
+
+-☶: why did you do that?
+
+-☶: @admin
+
+is similiar too
+
+-☶-: why did you do that @admin?
+
+This can also represent almost a pause for consious examination or an expressive way to show the reactions discrete.
+
+`<-- meta reaction>`
+This is the case because someone can react to something, but send out a reaction, the act of sending out that reaction also has a reaction.
+
+Also,
+`{☶}: ☶` is similar to `☶: {☶}` but `{☶}: ☶` is more reactionary and `☶: {☶}` is more expelling.
+
+## Having Things
+☶[Ackueli] ☶ owns Ackueli
+
+### Movement
+☶ <<=-=- ☶, the arrow is usually an expressive form to show rapidness, strength and directionality of the movement
+
+<-- generic movement
+
+<------- quick traveling, possibly light hearted movement
+
+<<<==== a strong delivery
+
+({ admin } <<--- quick light hearted movement of a thing that admin might not be prepared for
+
+### Object modifiers
+15 [+]👀
+
+### Locations 
+☶[Ackueli] ☶ Ackueli the acktueli place of ☶.
+
+### Presenter Modifiers
+These aren't typically used in normal conversations, if anything the presenter would make a reference to their status indication which contains these glyphs.
+
+/☶ stuck
+
+|☶ busy
+
+*☶ eagerness
