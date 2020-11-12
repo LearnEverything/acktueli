@@ -1,4 +1,5 @@
 ## Basic
+
 ☶: +☶
 
 The ☶: is the subject with the : being the dilimeter between the subject and the subject's reaction, +☶.

@@ -8,7 +8,7 @@ const DocIndex = ({ pages = [] }) => (
     <Typography variant="h1">
       === Acktueli ===
     </Typography>
-    <Typography variant="p"><em>_Orthography Codex of Lexicon△_</em></Typography>
+    <Typography variant="body1"><em>_Orthography Codex of Lexicon△_</em></Typography>
     <List>
       {pages.map((pageName) => (
         <Link href={`/docs/${pageName}`}>
