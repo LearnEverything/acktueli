@@ -6,9 +6,9 @@ import { List, ListItem, Typography } from "@material-ui/core";
 const DocIndex = ({ pages = [] }) => (
   <div style={{ margin: "32px auto", maxWidth: "1000px" }}>
     <Typography variant="h1">
-      <img src="/img/vns-logo-96.png" style={{ marginRight: "32px" }} />
-      VNS Live Documentation
+      === Acktueli ===
     </Typography>
+    <Typography variant="p"><em>_Orthography Codex of Lexicon△_</em></Typography>
     <List>
       {pages.map((pageName) => (
         <Link href={`/docs/${pageName}`}>
