@@ -21,7 +21,7 @@ If the passage of time indicators are on a line by themselves, expect at the ver
 
 ☶: +☶, @admin, I see that smile!
 
-admin: _☶↓↑↑↑↑↓↓↓↓↓↓↓↓_-☶ 
+admin: \_☶↓↑↑↑↑↓↓↓↓↓↓↓↓_-☶ 
 
 ### Weird Sequentiality Rules
 There is a lot of loose expression around sequentiality in Ackueli.
@@ -38,7 +38,7 @@ is similiar too
 
 This can also represent almost a pause for consious examination or an expressive way to show the reactions discrete.
 
-`<-- meta reaction>`
+_meta reaction_
 This is the case because someone can react to something, but send out a reaction, the act of sending out that reaction also has a reaction.
 
 Also,

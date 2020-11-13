@@ -28,7 +28,7 @@ function VNApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Vulcan Next</title>
+        <title>Acktueli</title>
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"

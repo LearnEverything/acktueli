@@ -1,4 +1,4 @@
-## Having Things
+## Things
 ☶[Ackueli] ☶ owns Ackueli
 
 ### Movement
@@ -12,11 +12,13 @@
 
 ({ admin } <<--- quick light hearted movement of a thing that admin might not be prepared for
 
-subsitution for @
+The movement arrows can be a more expressive subsitution for @, but not commonly used in basic statements.
 
-### Object modifiers
+### Thing Modifiers
 15 [+]👀
-(a)admin<--- [+〠](a)2☴
+(a)admin<--- [+〠]@2☴
 
-### Locations 
-☶[Ackueli] ☶ Ackueli the acktueli place of ☶.
+### Address
+^ Similar to reference and value in programming.
+@admin //admin proper
+^admin //the place where admin is at, or admin's home

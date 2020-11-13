@@ -1,2 +1,2 @@
 ### MEtA notation?
-[☯+🦕💻]hRefUtef
+Meta information can be inside with a [ ] or with { }.
