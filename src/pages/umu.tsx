@@ -1,10 +1,10 @@
 import { useQuery /*, useMutation*/ } from "@apollo/client";
 import gql from "graphql-tag";
-import Home from "~/components/home";
+import Umu from "~/components/umu";
 //import { useForm } from "react-hook-form";
 import MDXMuiLayout from "~/components/layout/MDXMuiLayout";
 
-const HomePage = () => {
+const UmuPage = () => {
   const vulcanSiteDataQuery = gql`
     query getSiteData {
       siteData {
@@ -37,7 +37,7 @@ const HomePage = () => {
   return (
     <MDXMuiLayout>
       <main>
-        <Home />
+        <Umu />
         {/*content*/}
       </main>
       <style jsx>{`
@@ -49,4 +49,4 @@ const HomePage = () => {
   );
 };
 
-export default HomePage;
+export default UmuPage;

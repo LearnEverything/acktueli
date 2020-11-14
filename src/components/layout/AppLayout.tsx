@@ -5,6 +5,7 @@
  * so that changing layout for certain pages is easier
  */
 import { typeScale } from "~/lib/style/typography";
+import SideNav from "../../components/layout/SideNav";
 
 interface AppLayoutProps {
   children: React.ReactNode;
@@ -12,6 +13,7 @@ interface AppLayoutProps {
 
 const AppLayout = ({ children }: AppLayoutProps) => (
   <div className="global">
+    {/*<SideNav/>*/}
     {children}
     <style jsx global>{`
       /* FIXME: ignore errors when using "vscode-styled-jsx", as we also use PostCSS */

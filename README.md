@@ -1,16 +1,10 @@
 # ☶ Acktueli ☶
-_the language of === Shielkwamm ===_
+_the language of △_ 
 
-## Grammar
-[grammar](/docs)
+### [u☶u](/umu)
 
-## Classic Writings
-> *To understand where you are going, one must understand what happened before.*
+### [syntax](/docs)
 
-[Antisocial Media](https://twitter.com/home)
+### [△meta-->](https://pastebin.com/u/shhkwamm)
 
-[The Situation](https://pastebin.com/u/_sh_Schedule)
-
-[=== shielkwamm ===](https://pastebin.com/u/ZorkGame)
-
-[pre△](https://pastebin.com/u/neobii)
+### [☶△](/delta)

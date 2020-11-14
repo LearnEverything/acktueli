@@ -6,9 +6,9 @@ import { List, ListItem, Typography } from "@material-ui/core";
 const DocIndex = ({ pages = [] }) => (
   <div style={{ margin: "32px auto", maxWidth: "1000px" }}>
     <Typography variant="h1">
-      === Acktueli ===
+    ☶[Syntax]
     </Typography>
-    <Typography variant="body1"><em>_Orthography Codex of Lexicon△_</em></Typography>
+    <Typography variant="body1"><em>Orthography Codex of Acktueli Lexicon</em></Typography>
     <List>
       {pages.map((pageName) => (
         <Link href={`/docs/${pageName}`}>
