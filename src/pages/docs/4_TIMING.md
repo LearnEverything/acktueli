@@ -13,11 +13,6 @@ If the passage of time indicators are _inline_, that means they are shorter, pro
 
 If the passage of time indicators are on a line by themselves, expect at the very least a minute has gone by.
 
-## { } vs [ ]
-{-☶, ☶+} indicates simultaneious mood
-[-☶, ☶+] indicates moods in order
-also [-☶.. ☶] using the more specific time interval notation
-
 ### Connection Emotions
 -☶... +☶, that made me unhappy, but i then realized it was the good thing to do.
 

@@ -1,3 +1,18 @@
+### React and Expel
+-☶, an unhappy reaction
+
+-☶- @admin, an unhappy reaction, but also expels negativity to admin
+
+### Null Indicator
+#☴ contemplation without reaction or expelation
+
+### Intensity
+☶ a generic acknowledgement
+
+☶☶ a salute
+
+++☶☶☶ a cheer
+
 ### Clarification
 Sometimes actually can be tightly coupled with an explanation denoted in * *.
 _☶/x+ *not amused, but go ahead and make an ass of yourself*
@@ -16,15 +31,6 @@ _☶/x+ *not amused, but go ahead and make an ass of yourself*
 
 ### Politeness
 * It is polite to only repeat 1 indicator in sequence 3 times ie +++☶ not ++++++☶.
-
-### Duality of Emotion
-{ [_]☴ & ☴/+ } *go ahead and redact that & oh that's fine* sometimes you agree with yourself
-
-{ [_]☴ | ☴/+ } *go ahead and redact that | oh that's fine* and othertimes, you don't know the right answer
-
-{ [_]☴ |--> ☴/+ } *go ahead and redact that | oh I'm leaning tword that's fine*
-
-*messy people don't put spaces between their brackets and their statements*
 
 ### Just Reacting
 <--☶ this is someone reacting to a presenter without the presenter part

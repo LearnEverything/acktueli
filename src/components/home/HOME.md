@@ -5,6 +5,6 @@ _the language of △_
 
 ### [syntax](/docs)
 
-### [△meta-->](https://pastebin.com/u/shhkwamm)
-
 ### [☶△](/delta)
+
+### [△meta-->](https://pastebin.com/u/shhkwamm)

@@ -45,6 +45,22 @@ const UmuPage = () => {
       <main>
         <Umu />
         <Typography variant="body1"><em>is it uwu or umu...?</em></Typography>
+        <Typography variant="body1">☶[umu]: Hey @☶!</Typography>
+        <Typography variant="body1">☶: +☶</Typography>
+        <Typography variant="h3">☶[umu]: Check out these, Bagua Trigrams.</Typography>
+        <Typography variant="body1"><ul>
+        <li>☴ - wind</li>
+        <li>☷ - Earth</li>
+        <li>☱ - Lake</li>
+        <li>☲ - flame</li>
+        <li>☶ - mountain</li>
+        <li>☰ - heaven</li>
+        <li>☳ - thunder</li>
+        <li>☵ - water</li>
+        </ul>
+        </Typography>
+        <Typography variant="body2"><em>Which glyph represents you?</em></Typography>
+        <Typography variant="body2">☶[umu]: I happen to be a ☶ (mountain).</Typography>
         {/*content*/}
       </main>
       <style jsx>{`
