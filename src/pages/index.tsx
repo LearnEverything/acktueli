@@ -1,6 +1,7 @@
 import { useQuery /*, useMutation*/ } from "@apollo/client";
 import gql from "graphql-tag";
 import Home from "~/components/home";
+import Head from 'next/head'
 //import { useForm } from "react-hook-form";
 import MDXMuiLayout from "~/components/layout/MDXMuiLayout";
 
@@ -36,6 +37,10 @@ const HomePage = () => {
   }
   return (
     <MDXMuiLayout>
+      <Head>
+        <title>Acktueli</title>
+        <link rel="icon" href="/favicon_io/favicon.ico" />
+      </Head>
       <main>
         <Home />
         {/*content*/}

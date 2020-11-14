@@ -2,9 +2,14 @@ import path from "path";
 import { Link } from "@vulcanjs/next-material-ui"; // "next/link";
 import { listMdxFiles } from "@vulcanjs/mdx";
 import { List, ListItem, Typography } from "@material-ui/core";
+import Head from "next/head";
 
 const DocIndex = ({ pages = [] }) => (
   <div style={{ margin: "32px auto", maxWidth: "1000px" }}>
+    <Head>
+        <title>Acktueli[Syntax]</title>
+        <link rel="icon" href="/favicon_io/favicon.ico" />
+      </Head>
     <Typography variant="h1">
     ☶[Syntax]
     </Typography>
