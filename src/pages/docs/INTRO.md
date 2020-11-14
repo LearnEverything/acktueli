@@ -2,12 +2,17 @@ The goal of Acktueli is to create a syntax for △.
 
 This is an example of a typical line: `☶: +☶`
 
-The general syntax is broken down into two statements: 
-`☶:` is the presenter statement
-`+☶` is the action statement.
+The basic syntax is broken down into two statements: 
+On the left, `☶:`, is the `actor` statement,
+And on the right, `+☶`, is the `mood` statement.
+The `:` in `☶:` is just the dilimeter character between the `actor` and the `mood`
 
-Typically, the presenter can have any glyphs they want, however it is considered rude to use glyphs that are commonly used as indicators `(+, -, _)`.
-Most of the time, the `presenter` and the `action` statement will repeat a glyph `☶`, that's because most mood indicators must be thought in the context of the `presenter` and there are deviations from presenter to presenter.
+Often, the `actor` and the `mood` statement will repeat the same glyph like `☶` in `☶: +☶`.  This is because the mood of the actor must be thought in the context of the actor, for example one actor's very bad might just be another actor's bad.
 
-Sometimes there will be no presenter statement and these are global messages, just assume it's probably something important.
+Sometimes, there will be no `actor statement`, these are global messages, just assume it's probably something important.
+
 ## `=== actually ===`
+
+Typically, actors can be represented by any glyph, however it is considered rude to use glyphs that are commonly used as indicators, ie `(+, -, _)`.
+
+The mood of `☶` reminds me of some grunt from some 90s era sitcom.

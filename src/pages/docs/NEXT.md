@@ -25,3 +25,6 @@ _☶/x+ *not amused, but go ahead and make an ass of yourself*
 { [_]☴ |--> ☴/+ } *go ahead and redact that | oh I'm leaning tword that's fine*
 
 *messy people don't put spaces between their brackets and their statements*
+
+### Just Reacting
+<--☶ this is someone reacting to a presenter without the presenter part
