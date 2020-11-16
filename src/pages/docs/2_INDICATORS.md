@@ -1,5 +1,5 @@
 ## Indicators
-There are two types of indicators, Qualitative indicators and Quantitative indicators.
+The two basic types of `indicators`, are `qualitative indicators` and `quantitative indicators`.
 
 Qualitative Indicators: `+ - _ x o`
 
@@ -17,10 +17,6 @@ Quantitative Indicators: `/ v ^ + -`
 `o` suprised
 
 `‾` seriousness, however sometimes the `‾` is omitted
-
-`?` questioning
-
-?--☶ *questioning* very unhappiness
 
 ### Quantitative or Amount
 `+` more
