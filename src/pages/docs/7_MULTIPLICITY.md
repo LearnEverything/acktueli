@@ -1,9 +1,17 @@
-## Duality
+## Multiplicity
+
 Sometimes, two or more `reactions` can be registered at once:
 > ☴: { -☴, +☴ }
 
 Or, sometimes two `actors` can react to the same thing at the same time.
 > { ☴: +☴, ☴: -☴ }
+
+### A Multiple
+☶ can be one person or multiple `secretive` people
+☶☶ can be two or a group of people
+☶☶☶ can be three or a large crowd
+
+### Duality
 
 More information about the nature of the duality can be recorded, sometimes an `actor` won't agree with themselves.
 

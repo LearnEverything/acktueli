@@ -36,4 +36,9 @@ When used as `status`, it could indicate they don't like how you identify them o
 ☶: ~[+-]☶ certain small parts of the mood can be unclear.  
 To make these unclear mood indicators very tiny use [[ ]] ~[[+-]]☶, 
 
-> Only using [ ] to denote this might not be considered rude.
+> Only using [ ] to denote this might not be considered `rude`.
+
+### Multiples
+☶ can be one person or multiple `secretive` people
+☶☶ can be two or a group of people
+☶☶☶ can be three or a large crowd
