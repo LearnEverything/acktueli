@@ -27,3 +27,18 @@ Pikachu:
 `☶☶ *pikapikapiiika*`
 
 `++☶☶☶ *pikaachooooooo!*`
+
+### Hints for _this_
+Acktueli has components of languages from different domains.  Sometimes, while learning about a feature of Acktueli, it is helpful to know what domain the component came from or was inspired by.
+
+`📚: language feature` <<--- What is an _interjection_? 
+
+`💻: computer science domain` var structures = [data, control]; // control and data structures
+
+`📏: measurement tools` More or less ways to indicate how much.
+
+`🗪: communication tone` Does sarcasm need it's own notation?:
+
+`❤: complex emotion` YeahNo, headshake.
+
+`🖌: visual aethetic qualities` 1, 2, 3: { {(-[ . ]v[ . ]-)} }

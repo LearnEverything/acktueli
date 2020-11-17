@@ -1,15 +1,20 @@
 ## Multiplicity
 
-Sometimes, two or more `reactions` can be registered at once:
-> ☴: { -☴, +☴ }
-
-Or, sometimes two `actors` can react to the same thing at the same time.
-> { ☴: +☴, ☴: -☴ }
-
-### A Multiple
+### Multiples
 ☶ can be one person or multiple `secretive` people
 ☶☶ can be two or a group of people
 ☶☶☶ can be three or a large crowd
+
+### Intensity
+"☶" as a `reaction` can mean many different things.  However, most of the time it is used as some basic acknowledgement.  An example is just think if someone asked you a question, and to say yes or no, you said your name, like a pokemon.
+
+Pikachu:
+
+`☶ *pika*`
+
+`☶☶ *pikapikapiiika*`
+
+`++☶☶☶ *pikaachooooooo!*`
 
 ### Duality
 
@@ -23,7 +28,8 @@ More information about the nature of the duality can be recorded, sometimes an `
 
 > ☴: { [_]☴ ||--> ☴/+ } *go ahead and redact that | oh I'm leaning tword that's fine*
 
-## { } vs [ ]
+## Grouping 💻
+{ } vs [ ]
 {-☶, ☶+} indicates simultaneious mood
 [-☶, ☶+] indicates moods in order
 also [-☶.. ☶] using the more specific time interval notation

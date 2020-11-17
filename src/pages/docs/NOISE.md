@@ -1,4 +1,4 @@
-## The Weird Stuff
+## Noise
 
 ## annonymous content
 `Annonymous` is similar to random, maybe closer to meta?  What references this `address`?  Graph or tree.  Choose by loudest `noise`.
