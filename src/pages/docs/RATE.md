@@ -10,5 +10,13 @@ Depending on the scenario and dialogue speed, sometimes it is useful to go fast 
 
 > Becareful with this one, using too much `quick` can almost defeat the purpose of Acktueli.
 
+Quick can use other _single_ characters to denote different "voices".
+
+> Hi
+^ no don't do that
+< I think it's alright
+^ oh I get it now
+> Guys I just wanted to say hi.
+
 ### Resolution
 Using more than three glyphs usually is considered excessive in `casual`, `strict`, and `polite`.  This is because of the balance between granularity and notation speed.  However in `rude` or `detailed`, you can do whatever you'd like.

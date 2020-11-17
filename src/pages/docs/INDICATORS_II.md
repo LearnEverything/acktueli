@@ -1,3 +1,5 @@
+## More, complex indicators
+
 ### Null Indicator
 #☴ contemplation without reaction or expelation
 
