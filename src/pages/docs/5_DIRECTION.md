@@ -23,6 +23,8 @@ When you take the time to show movement, it's good to highly resolve this.
 
 The movement arrows can be a more expressive subsitution for @, but not commonly used in basic statements.
 
+### TODO: put a note about leaning or accelration
+
 ### Address
 `^` Similar to reference and value in programming.
 @admin //admin proper
