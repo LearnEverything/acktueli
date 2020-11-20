@@ -16,7 +16,7 @@ const DocIndex = ({ pages = [] }) => (
     <Typography variant="body1"><em>Orthography Codex of Acktueli Lexicon</em></Typography>
     <List>
       {pages.map((pageName) => (
-        <Link href={`/docs/${pageName}`}>
+        <Link key={pageName} href={`/docs/${pageName}`}>
           <ListItem button key={pageName}>
             <Typography style={{ textTransform: "capitalize" }}>
               {

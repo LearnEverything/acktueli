@@ -43,7 +43,7 @@ module.exports = {
     // @see https://github.com/storybookjs/storybook/issues/7644#issuecomment-592536159
     withVulcan.module.rules = [
       ...withVulcan.module.rules.filter(
-        (rule) => rule.test.source !== "\\.md$"
+        (rule) => !rule.test || rule.test.source !== "\\.md$"
       ),
     ];
 

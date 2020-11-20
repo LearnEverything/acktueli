@@ -27,6 +27,9 @@ module.exports = {
         "styled-jsx": {
           plugins: ["styled-jsx-plugin-postcss"],
         },
+        "preset-react": {
+          runtime: "classic",
+        },
       },
     ],
   ],
