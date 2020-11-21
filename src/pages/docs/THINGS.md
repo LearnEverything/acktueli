@@ -14,7 +14,7 @@ Both the qualitative and quantiative are usually put on the left, as `things` us
 ### Thing Movement
 1 very small forehead kiss to admin
 
-(a)admin<--- [+〠]^2☴
+@admin<--- [+〠]^2☴
 
 Notice the anchor point is attached to admin to show a quick pocketing of that special forehead kiss.
 

@@ -1,4 +1,5 @@
 ## More, complex indicators
+Some `indicators` have more complex modification rules.
 
 ### Null Indicator
 #☴ contemplation without reaction or expelation
@@ -8,9 +9,12 @@
 ☴+/), Sarcasm always affixed to the end of the expression
 
 ### Questioning
-
 `?` questioning
 
 ?--☶ *questioning* very unhappiness
 
 ☶?? this is a straight question.
+
+
+### Serious
+`‾` seriousness, however sometimes the `‾` is omitted

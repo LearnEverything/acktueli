@@ -16,8 +16,6 @@ Quantitative Indicators: `/ v ^ + -`
 
 `o` suprised
 
-`‾` seriousness, however sometimes the `‾` is omitted
-
 ### Quantitative or Amount
 `+` more
 

@@ -37,3 +37,8 @@ also [-☶.. ☶] using the more specific time interval notation
 # TODO, how did I notate, *show one thing but feel another type duality*
 
 *messy people don't put spaces between their brackets and their statements*
+
+
+##
+The brackets here represent one member of a group.  Context is important, because here, one `actor` of _legalese_ is muting another `actor` of _legalese_.
+3:18 AM [Legalese] adds +m to [Legalese]

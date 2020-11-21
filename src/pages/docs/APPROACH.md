@@ -4,11 +4,17 @@ Different `approaches` can be used with Acktueli.  It is helpful if there is a c
 ### `Polite`
 Usually the first `approach` to be taken.  Sometimes it's only best to record `positive reactions` at first.  Also, it might be good to also use the `secretive` approach, but don't mention it.
 
+### `Reserved`
+Sometimes, Acktueli has a conflict with namespacing or use of glyphs with other platforms.  Symbols like _@_ can be changed to _(a)_ to better fit in with these systems.
+
 ### `Newbie`
-Just a lot of clarification and `expressive visual indicators`.
+Just a lot of clarification and `clipart`.
 
 ### `Casual` 
-Sometimes you want to just want to use a little bit more `expressive visual indicators` because things get boring.  Feel free to cast some spells and cause drama.
+Sometimes you want to just want to use a little bit more `clipart` because things get boring.  Feel free to cast some spells and cause drama.
+
+### `Artistic`
+Heavy use of `clipart` to the point where it might not carry any semantic value but be for pure aethetic qualities.
 
 ### `Rude`
 23423dsiafaefa09efasoisadfawelkawjefaefaksljfdbwonk bwonk bwwonkknknknknn, bwonk bwonk.
@@ -24,5 +30,5 @@ The `actor` might want all their `reaction` recorded.  So sometimes you have to 
 
 ### `Concise`
 
-### 'combinations`
+### Combinations
 New `Approaches` can be added or existing `approaches` can be combined with each other.  Sometimes, While selecting the `fast approach`,  the `rude approach` is also _implicitly_ defined.

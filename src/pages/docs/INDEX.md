@@ -2,6 +2,7 @@
 _Orthography Codex of Acktueli Lexicon_
 
 #### [0 Intro](./INTRO.md)
+#### [1 Basic Syntax](./BASIC.md)
 #### [1 Approach](./APPROACH.md)
 #### [2 Status](./STATUS.md)
 #### [3 Indicators](./INDICATORS.md)
@@ -9,10 +10,11 @@ _Orthography Codex of Acktueli Lexicon_
 #### [5 Clarity](./CLARITY.md)
 #### [6 Indicators 2](./INDICATORS_II.md)
 #### [7 Direction](./DIRECTION.md)
-#### [8 Timing](./TIMING.md)
-#### [9 Multiplicity](./MULTIPLICITY.md)
-#### [10 Things](./THINGS.md)
-#### [11 Expression](./EXPRESSSION.md)
+#### [8 Self](/SELF.md)
+#### [9 Timing](./TIMING.md)
+#### [10 Multiplicity](./MULTIPLICITY.md)
+#### [11 Things](./THINGS.md)
 #### [12 Rate](./RATE.md)
 #### [13 Noise](./NOISE.md)
 #### [14 Tags](./TAGS.md)
+#### [15 Clipart](./CLIPART.md)
