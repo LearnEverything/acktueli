@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+### [v0.2.7]
+> 11/22/2020
+
 ### [v0.2.2]
 > 11/21/2020
 

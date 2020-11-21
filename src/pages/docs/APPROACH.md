@@ -1,5 +1,5 @@
 ## Approach
-Different `approaches` can be used with Acktueli.  It is helpful if there is a consensus on `approach`, whether _explicit_ or _implicit_.  Depending on the `approach`, Acktueli can have different rules of documentation.
+Different `approaches` can be used with Acktueli.  It is helpful if there is a consensus on `approach`, whether _explicit_ or _implicit_.  Depending on the `approach`, Acktueli can have different rules of documentation.  Look for the `#` in this documentation as this will show that there is an `approach` to consider.
 
 ### `#polite`
 Usually the first `approach` to be taken.  Sometimes it's only best to record `positive reactions` at first.  Also, it might be good to also to be `#secretive`, but don't mention it.
@@ -28,7 +28,11 @@ Good for rapidly incoming messages.  Uses a lot of `quick`, so best to let peopl
 ### `#secretive`
 The `actor` might want all their `reaction` recorded.  So sometimes you have to think, how would the `actor` like this obfuscated?  Using just an `afirmative` or a `positve afirmative` `reaction` can get the point across.  It might be expected for any `quick` to be removed after the conversation is over.
 
+### `#acktueli`
+The approach of === Acktueli ===.
+
 ### `#concise`
+☶: ☶
 
 ### Combinations
 New `Approaches` can be added or existing `approaches` can be combined with each other.  Sometimes, while being `#fast`, taking the `#rude` approach is also _implicitly_ defined.

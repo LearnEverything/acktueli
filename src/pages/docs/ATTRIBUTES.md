@@ -1,6 +1,6 @@
 ## Attributes
 
-Sometimes information can be stored about an `actor` or `thing` that is `semi-permant`, `permanant` but not `lasting`.
+Sometimes information can be stored about an `actor` or `thing` that is `<semi-permanant>`, `<permanant>` but not `<lasting>`.
 
 > 2[+]〠@☴
 
@@ -10,3 +10,8 @@ Sometimes information can be stored about an `actor` or `thing` that is `semi-pe
 If one `actor` is accompanying another `actor`, it can be shown that the accompanying actor is an `attribute`.
 
 > ☴[-☴]
+
+### Location
+`Location` is a `<semi-permanant>` `attribute`.  To reference the location of something use ^.  For instance, ^☶ could mean the home of ☶ or where ☶ is currently.
+
+☶: ☶?? --> ^☶ Where'd I put my keys?

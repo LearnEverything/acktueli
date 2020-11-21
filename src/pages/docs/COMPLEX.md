@@ -13,8 +13,23 @@ More information about the nature of the duality can be recorded, sometimes an `
 
 > ☴: { [_]☴ ||--> ☴/+ } *go ahead and redact that | oh I'm leaning tword that's fine*
 
-# TODO, how did I notate, *show one thing but feel another type duality*
+### Facade
 
-### More than that
+> ☴: { !+☴, ☴- }, that shirt looks good on you!
+
+The +☴ is portraying the reaction the actor has, but really feels ☴-.  Normally this is an && type duality, but || can be used if there is less `surity`.
+
+### More than 2
 
 If the compound `reaction` contains more than 2 actions, it is more than likely going to represent a `sequence` of `reactions`.
+
+> ☴: [+☴, ☴?-, -☴[-]], Cool, wait what? Oh no I didn't agree to that.
+
+Also `<intervals>` can be used between the `reactions` instead of commas to improve `resolution`.
+> ☴: [+☴.. ...☴?- ..-☴[-]], Cool, wait what? Oh no I didn't agree to that.
+
+## Reaction Echo
+Sometimes, a `reaction` seems to come with strong another `echo`.  Why the square brackets aren't used this `sequential reaction` is because the arrows notation more of an existential `reaction` to the `actors` original `action`.
+> ☶: {{ +☶ }} --> {{ ☶ }}
+
+Or the `actor` reacts to their own `reaction` ☶: {{ +☶ }} <-- {{ ☶ }}.

@@ -1,6 +1,11 @@
 ## Noise
 Often, situations can get `noisey`.
 
+## Interjection
+> ☶: +☶, I think that's a good idea..
+> <-- ☶: -☶-, NO 
+The `<--` denotes the strength of the _inerjection_, and the `<interval>` .. is shortened.
+
 ## Loudest Noise
 Without listening for any `action`, the recorder can direct their attention to a `thing` or `actor` and record any `noises` that are picked up.  Sometimes, it's a lot, sometimes it's a little, but in either situation the `loudest noise` will get recorded.
 

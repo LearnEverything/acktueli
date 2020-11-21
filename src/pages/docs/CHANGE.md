@@ -1,12 +1,5 @@
-## Direction
-To direct something to another `actor` or `thing`, simplely use @ symbol.
-> ☶: +☶, @actor
-
-Sometimes, more detail needs to be recorded to describe the increase or decrease of the qualities of an `action` over time.
-
-> ☶: +☶ =--> @actor
-
-This is _☶_ `expelling` _+☶_ to actor, with decreasing momentum and a soft call to attention.
+## Change Over Time
+Sometimes, more detail needs to be recorded to describe the how `action` _changed over time_.
 
 ## Seasaw
 Sometimes, the `action` feels that it seasaws between two points.

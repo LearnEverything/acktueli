@@ -18,3 +18,9 @@ Some `indicators` have more complex modification rules.
 
 ### Serious
 `‾` seriousness, however sometimes the `‾` is omitted
+
+### Not
+`!` negates emotion.
+
+!+☴ not good
+

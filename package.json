@@ -1,6 +1,6 @@
 {
   "name": "acktueli",
-  "version": "0.2.2",
+  "version": "0.2.7",
   "private": true,
   "scripts": {
     "dev": "next",
