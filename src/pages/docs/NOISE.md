@@ -1,13 +1,14 @@
 ## Noise
+Often, situations can get `noisey`.
 
-## annonymous content
-`Annonymous` is similar to random, maybe closer to meta?  What references this `address`?  Graph or tree.  Choose by loudest `noise`.
+## Loudest Noise
+Without listening for any `action`, the recorder can direct their attention to a `thing` or `actor` and record any `noises` that are picked up.  Sometimes, it's a lot, sometimes it's a little, but in either situation the `loudest noise` will get recorded.
 
-`composition`
+This is basically `resolving` `annonymous` `attributes` or `content` from `things` using loudest wins meaning.  Because the focus is to listen for the `loudest noise`, often the `actor` is not known, which is why we call it call `annonymous`.  Because of the nature of this, it's best to keep it `casual`.
 
-a tractor can have a tire
+## Noise Listening Qualities
 
-Things can have `annonymous content`. `resolve` `content` from `things annonymously` meaning, there isn't a known `actor` that produced the `content`.  Because of the nature of this, it's best to keep it `casual`.
+The arrows signify the what kind of effort is put into the `resolve` .
 
 ^thing <--- ☶
 
@@ -16,5 +17,3 @@ Things can have `annonymous content`. `resolve` `content` from `things annonymou
 ^thing content <--- admin
 
 ^thing content ---> content from thing content
-
-The arrows signify how hard of a `pull` this is, like trying to drink a thick milkshake.

@@ -14,5 +14,5 @@ To make these unclear mood indicators very tiny use [[ ]] ~[[+-]]☶,
 
 > Only using [ ] to denote this might not be considered not `( Detailed )`.
 
-### As a status
-When used as `status`, it could indicate an `actor` don't like how you identify them or they are new to your conversation and you need to `resolve` them a little better.
+#### Recognition
+The `~` as a status can also represent a new `actor` to conversation.  The reason why it is reused is that, either way, in most cases the `actor` has not been fully `recognized`.

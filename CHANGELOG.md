@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file. Dates are d
 
 
 ### [v0.0.3]
-> 11-20-2020
+> 11/20/2020
 
 Made a mess and probably added more things to confuse readers.
 

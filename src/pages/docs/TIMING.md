@@ -16,13 +16,6 @@ If the passage of time indicators are on a line by themselves, expect at the ver
 ### Connection Emotions
 -☶... +☶, that made me unhappy, but i then realized it was the good thing to do.
 
-### Rising and Falling Emotion
-↑↑↓↑↓☶, this indicates that someone's reaction might change over time
-
-☶: +☶, @admin, I see that smile!
-
-admin: \_☶↓↑↑↑↑↓↓↓↓↓↓↓↓_-☶ 
-
 ### Weird Sequentiality Rules
 There is a lot of loose expression around sequentiality in Ackueli.
 

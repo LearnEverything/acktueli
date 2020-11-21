@@ -8,8 +8,8 @@ Sometimes, more detail needs to be recorded to describe the increase or decrease
 
 This is _☶_ `expelling` _+☶_ to actor, with decreasing momentum and a soft call to attention.
 
-## Wave Shape
-Sometimes, the `action` feels that it has a wave shape or that it seasaws between two points
+## Seasaw
+Sometimes, the `action` feels that it seasaws between two points.
 
 > @actor <--||--> -@☶ 
 
@@ -40,6 +40,21 @@ When transitioning to something else, sometimes there is a speed up or slow down
 
 > In `( All )`, it's not really annoying to see up to a full line of `resolution` to document direction qualities.
 
-### Notation type 2
-Ahhh, use this syntax
-☴: {+/↑↑+↓↓/↓↑+↑+☵} && {_[-]☴};☴: +☴
+### Notation Type 2
+`Change over time` can be represented with a different notation.  The <<<=== style of seems more of a `relative` to the previous arrow, where as ↓↑+↑+ feels more `absolute` or independant of each preceeding indicator.
+
+`Qualitative` type to express more `loudness`
+
+--=-->, `oweoh`
+===--> , `ooohhh`
+↓↑↓, `oweoh`
+↑-↓, `ooohh`
+
+### Rising and Falling Emotion
+
+Rising-falling vs expanding-contracting
+↑↑↓↑↓☶, this indicates that someone's reaction might change over time
+
+☶: +☶, @admin, I see that smile!
+
+admin: \_☶↓↑↑↑↑↓↓↓↓↓↓↓↓_-☶ 

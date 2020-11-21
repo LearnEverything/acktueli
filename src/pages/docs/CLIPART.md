@@ -7,9 +7,15 @@ They say a picture is worth a 1000 words.  When an `actor context` is well known
 
 > Careful with this one!
 
-### Advanced Sarcasm
+### Clipart Indicators
+`Clipart` can have `indicators` as well.
 
-Sarcasm is a good example of a `visually expressive indicator`, meaning you have to look at how the text looks to fully understand the meaning behind the `expression`.
+++-[ . ]-[ . ]-
+
+++(-[ . ]-[ . ]-)
+
+### Advanced Sarcasm
+Sarcasm is a good example of `clipart`, meaning you have to look at how the characters look in order to fully understand the meaning behind the `expression`.
 
 /) - smug
 
