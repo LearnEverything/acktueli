@@ -1,14 +1,14 @@
 ## Grouping
 
 ### Multiples
-☶ can be one person or multiple `secretive` people
+☶ can be one person or multiple `#secretive` people
 ☶☶ can be two or a group of people
 ☶☶☶ can be three or a large crowd
 
 Both ☶ and admin have a `reaction` of ☶...
-> `Detailed` verison: ☶, admin: ☶
+> `#detailed` verison: ☶, admin: ☶
 
-> `Secretive` version: ☶☶: ☶
+> `#secretive` version: ☶☶: ☶
 
 Also can be denoted by 2[☶]
 

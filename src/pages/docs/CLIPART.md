@@ -15,7 +15,7 @@ They say a picture is worth a 1000 words.  When an `actor context` is well known
 ++(-[ . ]-[ . ]-)
 
 ### Advanced Sarcasm
-Sarcasm is a good example of `clipart`, meaning you have to look at how the characters look in order to fully understand the meaning behind the `expression`.
+Sarcasm is a good example of `clipart`, meaning you have to look at how the characters look in order to fully understand the meaning behind the `clipart`.
 
 /) - smug
 

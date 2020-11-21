@@ -23,7 +23,7 @@ This indicates more weight towards `actor` and using the "||" as a fulcrum.
 
 The movement broken down into two parts, the _=--_ `momentum` and the _>_ `anchor`.
 
-`<=-<=-=<` Because there is not a definate `anchor` this can mean there is a `lasting` quality to an `action`.
+`<=-<=-=<` Because there is not a definate `anchor` this can mean there is `<lasting>` to the `action`.
 
 ### Movement
 `☶ <<=-=- ☶`, the arrow is usually an expressive form to show rapidness, strength and directionality of the movement.

@@ -19,4 +19,4 @@ Quick can use other _single_ characters to denote different "voices".
 > Guys I just wanted to say hi.
 
 ### Resolution
-Using more than three glyphs usually is considered excessive in `casual`, `strict`, and `polite`.  This is because of the balance between granularity and notation speed.  However in `rude` or `detailed`, you can do whatever you'd like.
+Using more than three glyphs usually is considered excessive in `#casual`, `#strict`, and `#polite`.  This is because of the balance between granularity and notation speed.  However in `#rude` or `#detailed`, you can do whatever you'd like.

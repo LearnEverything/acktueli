@@ -1,5 +1,5 @@
-## Intro
-Acktueli has components of languages from different domains.  While learning about a feature of Acktueli, it is helpful to know what type of domain knowledge Acktueli is referencing.
+## Understanding This Documentation
+Acktueli has components of languages from different domains.  While learning about Acktueli, it is helpful to know what type of domain knowledge inspired Acktueli.
 
 `📚: language feature` <<--- What is an _interjection_? 
 

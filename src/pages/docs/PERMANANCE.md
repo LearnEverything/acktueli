@@ -1,11 +1,20 @@
 ## Permanance
+There is different types of `permanance`.
 
-### `semi-permant`
+### `<single>`
+`Permance` that lasts within the time period of a single line of communication.  This is the default `permanance` unless otherwise specified.
 
-### `permanant`
+### `<permanant>`
+`Permanant` is the rarest type as everything changes.
 
-### `lasting`
+### `<semi-permant>`
+An `actor` can get a car and then sell the car.
 
-### `interval`
+### `<lasting>`
+An `actor` can have a lasting impression.
 
-### `wave`
+### `<interval>`
+A specific amount of time passing.  Most `<single>` `actions` also have `<interval>` `permanance`, because it is known how much time passed before the pervious `action` and the next `action`.
+
+### `<wave>`
+A back and forth variation that is usually just `<lasting>` and rarely `<semi-permanent>`.

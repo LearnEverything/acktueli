@@ -11,7 +11,7 @@ Both the qualitative and quantiative are usually put on the left, as `things` us
 ### Things as an Attribute 
 15 ☴[+👀] - the `actor` _☴_ is the `parent` of 15 kinda good eyeballs 
 
-> Also can be notated as @ in `casual` instead of ^.  The speration between the `thing` and the `parent` become unclear.
+> Also can be notated as @ in `#casual` instead of ^.  The speration between the `thing` and the `parent` become unclear.
 
 ### Thing Movement
 1 very small forehead kiss to admin
