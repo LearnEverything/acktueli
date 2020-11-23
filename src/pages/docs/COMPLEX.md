@@ -17,7 +17,7 @@ More information about the nature of the duality can be recorded, sometimes an `
 
 > ☴: { !+☴, ☴- }, that shirt looks good on you!
 
-The +☴ is portraying the reaction the actor has, but really feels ☴-.  Normally this is an && type duality, but || can be used if there is less `surity`.
+The +☴ is portraying the reaction the actor has, but really feels ☴-.  Normally this is an && type duality, but || can be used if there is less `resolution`.
 
 ### More than 2
 

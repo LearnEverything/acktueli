@@ -1,6 +1,6 @@
 ## Clipart
 
--[ . ]-[ . ]-
+_/.\/.\_
 (. )---##
 
 They say a picture is worth a 1000 words.  When an `actor context` is well known, it may be easier to represent their idiosyncrasies with more visually expressive syntax.

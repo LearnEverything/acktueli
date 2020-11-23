@@ -1,9 +1,16 @@
 ## Changelog
 
-All notable changes to this project will be documented in this file. Dates are displayed in UTC.
+All notable changes to this project will be documented in this file.
+
+### [v0.2.8]
+> 11/23/2020
+
+Removed ✨, added more mess, and topics.
 
 ### [v0.2.7]
-> 11/22/2020
+> 11/21/2020
+
+This release speaks for itself.
 
 ### [v0.2.2]
 > 11/21/2020

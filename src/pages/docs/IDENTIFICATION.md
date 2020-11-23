@@ -1,4 +1,4 @@
-## Resolution
+## Identification
 
 
 #### Clarity
@@ -19,3 +19,11 @@ To make these unclear mood indicators very tiny use [[ ]] ~[[+-]]☶,
 
 #### Recognition
 The `~` as a status can also represent a new `actor` to conversation.  The reason why it is reused is that, either way, in most cases the `actor` has not been fully `resolved`.
+
+
+#### Metaphor or Comparison
+```
+:
+==
+===
+```

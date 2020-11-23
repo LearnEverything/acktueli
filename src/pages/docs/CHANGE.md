@@ -6,7 +6,7 @@ Sometimes, the `action` feels that it seasaws between two points.
 
 > @actor <--||--> -@☶ 
 
-This indicates a nutral balance while
+This indicates a nuetral balance while
 
 > @actor <--==||--> -@☶ 
 
@@ -43,11 +43,23 @@ When transitioning to something else, sometimes there is a speed up or slow down
 ↓↑↓, `oweoh`
 ↑-↓, `ooohh`
 
-### Rising and Falling Emotion
+### Is it an <interval> or <repeating>?
+Normally, it is `polite` to use only 3 repeating glyphs in a `status`.  Usually when you see 1 - 3 of `↓` it is `<semi-permanant>`, sometimes, when things are `#fun` it could represent something `<repeating>`, however 5 or more could represent an `<interval>`.
 
+### Rising and Falling Emotion
 Rising-falling vs expanding-contracting
 ↑↑↓↑↓☶, this indicates that someone's reaction might change over time
 
 ☶: +☶, @admin, I see that smile!
 
 admin: \_☶↓↑↑↑↑↓↓↓↓↓↓↓↓_-☶ 
+
+### Direction
+Pretty self explanitory.
+
+```
+\>
+\<
+\v
+\^
+```

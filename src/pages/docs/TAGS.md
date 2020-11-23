@@ -15,4 +15,4 @@ Othertimes, the `reaction` needs to be made more `clear`.
 ### I'm too lazy to find the emoji 
 :emojiHere:
 
-This sentence might have some tags, asdfdasf
+This sentence might have some tags. ;asdfdasf
