@@ -3,9 +3,9 @@
 ## Grouping with {, (, or [ 
 Depending on which { } vs [ ] vs ( ) is used, these can have different semantic changes to the datastructure.  Sometimes, however, they have no semantic change, it just makes everything clearer to read... use sparingly.
 
-{ -☶, -☶ } indicates simultaneious
+{ -☶, -☶ } indicates _simultaneous_
 
-[ -☶, ☶+ ] indicates sequential
+[ -☶, ☶+ ] indicates _sequential_
 
 also [ -☶.. ☶ ] using the more specific time interval notation
 

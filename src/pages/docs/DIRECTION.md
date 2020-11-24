@@ -1,7 +1,7 @@
-## Change
+## Direction
 Sometimes, more detail needs to be documented to describe the how `action` _changed over time_.
 
-### Seasaw
+## Seasaw
 Sometimes, the `action` feels that it seasaws between two points.
 
 > @actor <--||--> -@☶ 
@@ -42,3 +42,24 @@ When transitioning to something else, sometimes there is a speed up or slow down
 ===--> , `ooohhh`
 ↓↑↓, `oweoh`
 ↑-↓, `ooohh`
+
+### Is it an <interval> or <repeating>?
+Normally, it is `polite` to use only 3 repeating glyphs in a `status`.  Usually when you see 1 - 3 of `↓` it is `$semi-permanant`, sometimes, when things are `#fun` it could represent something `$repeating`, however 5 or more could represent an `$interval`.
+
+### Rising and Falling Emotion
+Rising-falling vs expanding-contracting
+↑↑↓↑↓☶, this indicates that someone's reaction might change over time
+
+☶: +☶, @admin, I see that smile!
+
+admin: \_☶↓↑↑↑↑↓↓↓↓↓↓↓↓_-☶ 
+
+### Direction
+Pretty self explanitory.
+
+```
+\>
+\<
+\v
+\^
+```

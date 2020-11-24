@@ -1,10 +1,10 @@
 ## Things
-`Things` cannot produce `reactions` unless they are _personified_.  However, `things` can have histories that can affect their qualititive aspects.  `Things` also don't mind if you quantify them in different ways.  Most `things` are an attribute of an `actor`, but they don't get in trouble if they aren't _implicit_. Just because the `thing` is by itself, doesn't mean that it is alone.
+`Things` cannot produce `reactions` unless they are _personified_.  However, `things` can have histories that can affect their _qualititive_ aspects.  `Things` also don't mind if you quantify them in different ways.  Most `things` are an attribute of an `actor`, but they don't get in trouble if they aren't _implicit_. Just because the `thing` is by itself, doesn't mean that it is alone.
 
 `Things` also don't have _reflexive_ properties.
 
 ### Thing Indicators
-Both the qualitative and quantiative are usually put on the left, as `things` usually don't send `mood`.
+Both the `qualitative and quantitative indicators` are usually put on the left, as `things` usually don't send `mood`.
 
 15 [+]👀 - 15 kinda good eyeballs
 

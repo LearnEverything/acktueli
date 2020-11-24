@@ -3,7 +3,7 @@ Compound `reactions` from a single `actor` usually come in 2s and have an extend
 
 ### Duality
 
-More information about the nature of the duality can be recorded, sometimes an `actor` won't agree with themselves.
+More information about the nature of the duality can be documented, sometimes an `actor` won't agree with themselves.
 
 > ☴: { [_]☴ && ☴/+ } *go ahead and redact that & oh that's fine* sometimes you agree with yourself
 
@@ -17,7 +17,7 @@ More information about the nature of the duality can be recorded, sometimes an `
 
 > ☴: { !+☴, ☴- }, that shirt looks good on you!
 
-The +☴ is portraying the reaction the actor has, but really feels ☴-.  Normally this is an && type duality, but || can be used if there is less `resolution`.
+The +☴ is portraying the reaction the actor has, but really feels ☴-.  Normally this is an && type duality, but || can be used if there is less `granularity`.
 
 ### More than 2
 
@@ -25,11 +25,5 @@ If the compound `reaction` contains more than 2 actions, it is more than likely 
 
 > ☴: [+☴, ☴?-, -☴[-]], Cool, wait what? Oh no I didn't agree to that.
 
-Also `<intervals>` can be used between the `reactions` instead of commas to improve `resolution`.
+Also `$intervals` can be used between the `reactions` instead of commas to improve `granularity`.
 > ☴: [+☴.. ...☴?- ..-☴[-]], Cool, wait what? Oh no I didn't agree to that.
-
-## Reaction Echo
-Sometimes, a `reaction` seems to come with strong another `echo`.  Why the square brackets aren't used this `sequential reaction` is because the arrows notation more of an existential `reaction` to the `actors` original `action`.
-> ☶: {{ +☶ }} --> {{ ☶ }}
-
-Or the `actor` reacts to their own `reaction` ☶: {{ +☶ }} <-- {{ ☶ }}.

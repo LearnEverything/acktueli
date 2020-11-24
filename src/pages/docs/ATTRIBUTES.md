@@ -1,6 +1,5 @@
 ## Attributes
-
-Sometimes information can be stored about an `actor` or `thing` that is `<semi-permanant>`, `<permanant>` but not `<lasting>`.
+Sometimes, data can be stored about an `actor` or `thing` that is `<semi-permanant>`, `<permanant>` but not `<lasting>`.
 
 > 2[+]〠@☴
 

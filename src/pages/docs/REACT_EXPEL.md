@@ -16,6 +16,6 @@ When `expelation` is more _reflexive_, this means that seeing indicators of both
 ({ admin )) admin was stressing out a little, but admin chills things out a bit
 
 ### Implicit Reaction
-If `☶` is _implicit_, then you can write that as `<-- +☶`.  Look you freed up a little bit more time, now you can make the `movement` more _expressive_!
+If `☶` is _implicit_, then you can write that as _<-- +☶_.  Look, you freed up a little bit more time, now you can make the `movement` more _expressive_ and `granular`!
 
 Sometimes, while being `#concise`, it is not necessary be as `#detailed` `☶: +☶ @admin`.  

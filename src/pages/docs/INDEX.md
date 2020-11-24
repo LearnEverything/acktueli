@@ -1,28 +1,46 @@
 ## ☶[Syntax]
 _Orthography Codex of Acktueli Lexicon_
 
-#### [0 Preface](./PREFACE.md)
-#### [1 Basic Syntax](./BASIC.md)
-#### [2 Approach](./APPROACH.md)
-#### [3 Permanance](./PERMANACE.md)
-#### [4 Self](./SELF.md)
-#### [5 Indicators](./INDICATORS.md)
-#### [6 Status](./STATUS.md)
-#### [7 Attributes](./ATTRIBUTES.md)
-#### [8 Targeting](./TARGETING.md)
-#### [9 React and Expel](./REACT_EXPEL.md)
-#### [10 Identification](./IDENTIFICATION.md)
-#### [11 Indicators 2](./INDICATORS_II.md)
-#### [12 Change](./DIRECTION.md)
-#### [13 Timing](./TIMING.md)
-#### [14 Grouping](./GROUPING.md)
-#### [15 Complex](./COMPLEX.md)
-#### [16 Things](./THINGS.md)
-#### [17 Rate](./RATE.md)
-#### [18 Response](./NOISE.md)
-#### [19 Tags](./TAGS.md)
-#### [20 Clipart](./CLIPART.md)
-#### [21 Amount](./AMOUNT.md)
-#### [22 Preposition](./PREPOSITION.md)
-#### [23 Character](./CHARACTER.md)
-#### [24 More](./MORE.md)
+## Feels
+#### [Preface](./PREFACE.md)
+#### [Basic Syntax](./BASIC.md)
+#### [Approach](./APPROACH.md)
+
+## Character
+#### [Character](./CHARACTER.md)
+#### [Indicators](./INDICATORS.md)
+#### [Direction](./DIRECTION.md)
+#### [Granularity](/GRANULARITY.md)
+
+## Expression
+#### [Clipart](./CLIPART.md)
+#### [Clipart Indicators](./INDICATORS_II.md)
+
+## Self
+#### [Self](./SELF.md)
+#### [Identification](./IDENTIFICATION.md)
+#### [Status](./STATUS.md)
+
+## Reaction
+#### [React and Expel](./REACT_EXPEL.md)
+#### [Response](./RESPONSE.md)
+#### [Nuanced Indicators](./NUANCED_INDICATORS.md)
+#### [Complex](./COMPLEX.md)
+
+## Time
+#### [Timing](./TIMING.md)
+#### [Permanance](./PERMANACE.md)
+#### [Rate](./RATE.md)
+#### [Change](./CHANGE.md)
+
+## Place or Thing
+#### [Things](./THINGS.md)
+#### [Targeting](./TARGETING.md)
+#### [Preposition](./PREPOSITION.md)
+#### [Amount](./AMOUNT.md)
+
+## Syntax
+#### [Grouping](./GROUPING.md)
+#### [Tags](./TAGS.md)
+#### [More](./MORE.md)
+#### [Attributes](./ATTRIBUTES.md)

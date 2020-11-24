@@ -1,8 +1,8 @@
 ## Self
-☶
+> ☶: ☶, I am a mountain.
 
 ### Identification
-`Actors` can choose any `identification` by representing themselves by any glyph, however using `reserved` characters such as `+, -, ?` is considered `#rude`.  So far, Acktueli uses the _☶_ `identification` in this documentation.
+I, the Acktueli documenter, use the _☶_ my their `identification` in this documentation.  `Actors` can choose any `identification` by representing themselves by any glyph, however using `reserved` characters such as `+, -, ?` is considered `#rude`.
 
 ### Avatar
 Often, in the `reaction` of the `actor` and the statement will repeat their `identification` like _☶_ in `☶: +☶`.  This is because the `reaction` of the `actor` is _reflexive_, in other words, it must be thought in the `context` of the `actor`, for example, one actor's sad might just be another actor's normal :.  We call this repeated _instance_ of the `identification` the `avatar`.

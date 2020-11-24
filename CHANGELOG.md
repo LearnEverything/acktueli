@@ -2,10 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+### [v0.3.0]
+> 11/24/2020
+
+Split into topics and subtopics, straightening up vocabulary, and added a glossary.
+
 ### [v0.2.8]
 > 11/23/2020
 
-Removed ✨, added more mess, and topics.
+Removed ✨, added more mess... and topics.
 
 ### [v0.2.7]
 > 11/21/2020
