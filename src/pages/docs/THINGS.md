@@ -3,8 +3,8 @@
 
 `Things` also don't have _reflexive_ properties.
 
-### Thing Indicators
-Both the `qualitative and quantitative indicators` are usually put on the left, as `things` usually don't send `mood`.
+### Thing Modifiers
+Both the `qualitative and quantitative modifiers` are usually put on the left, as `things` usually don't send `mood`.
 
 15 [+]👀 - 15 kinda good eyeballs
 
@@ -22,3 +22,6 @@ Notice the anchor point is attached to admin to show a quick pocketing of that s
 
 ### Status vs Static
 Statuses are always static, but static isn't always status.  The fact that every `thing` has a `parent` is a `static` property of that `thing`.
+
+### Side
+`Things` on the left side of the `actor` can indicate the `actor` is displaying or more generous with said thing.  Things on the right could be more possessive, secretive or secure.

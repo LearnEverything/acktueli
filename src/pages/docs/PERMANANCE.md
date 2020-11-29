@@ -1,5 +1,5 @@
 ## Permanance
-There are different types of `permanance` and can be recognized in this documentation with the `$permananceType` notation.
+There are different types of `permanance` that are recognized in this documentation with the `$permananceType` notation.
 
 ### `$switch`
 Like an on an off switch.  If an `actor` never changes the switch position, it might remain in that state `$permanantly`.

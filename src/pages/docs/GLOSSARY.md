@@ -20,11 +20,15 @@ expel
 
 granularity
 
-indicator
-
 loudness
 
+modifier
+
+mood
+
 react
+
+resolution
 
 status
 

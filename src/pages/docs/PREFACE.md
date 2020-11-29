@@ -1,7 +1,7 @@
 ## Understanding This Documentation
 This documentation is for conversational Acktueli.  
 
-Acktueli has components of languages from different domains.  While learning about Acktueli, it is helpful to know what type of domain knowledge inspired Acktueli.  This documentation is not exhaustive and also Acktueli is _extensible_ so there may be some unrecognized syntax used elsewhere.  This might be because Acktueli doesn't have a _explicit_ representation, but because of the structure of Acktueli, it is easish to continue a perscriptive syntax that mixes in other types of notations, expecially from programming or math.
+Acktueli has components of languages from different domains.  While learning about Acktueli, it is helpful to know what part of language Acktueli is trying to represent and the type of domain knowledge inspired Acktueli.
 
 #### `📚: language feature` 
 Parts of speech will usually be indicated with "\_" like  _part of speech_.

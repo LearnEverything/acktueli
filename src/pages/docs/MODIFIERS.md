@@ -1,9 +1,11 @@
-## Indicators
-The two basic types of `indicators`, are `qualitative indicators` and `quantitative indicators`.
+## Modifiers
+The use of `modifiers` can modify the `mood` or physical properties of the `action`.  `Modifiers` are usually used in a _reflexive_ context.
 
-Qualitative Indicators: `+ - _ x o`
+The two basic types of `modifiers`, are `qualitative modifiers` and `quantitative modifiers`.
 
-Quantitative Indicators: `/ v ^ + -`
+Qualitative Modifiers: `+ - _ x o`
+
+Quantitative Modifiers: `/ v ^ + -`
 
 ### Qualitative or Mood
 `+` happy or positive

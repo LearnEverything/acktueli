@@ -1,14 +1,16 @@
 ## Status
-So far, we've seen `reaction` as a type of `action`, but sometimes we need to describe their state of being or `status`.  Knowing the `status` will help us better understand the `context` of the `actor`.
+So far, we've seen `reaction` as a type of `action`, but sometimes the `documenter` needs to describe the `actors` state of being or `status`.  Knowing the `status` will help the `reader` better understand the `context` of the `actor`.
 
 ### Reaction vs Status
-What is the difference between the state of being and a flash of emotion?  Just a difference in `<interval>` length.  An actor's mood is `<lasting>`.  The `<lasting>` is a type of `permanance` we'll call `status`.  
+What is the difference between a state of being and a flash of emotion?  Just a difference in `$interval` length.  An `actor's mood` is `$lasting`.  The `$lasting` is a type of `permanance` we'll call `status`.  
 
 We'll assume the actor is reacting in the context of these `$lasting reaction`.
 
-When an `actor` changes their `attributes` in a conversation, it is can arrive as a `global message`: ☶ changes their `status` to `||☶`.
+When an `actor` changes their `attributes` during `documentation`, it is can arrive as a `global message`.
 
-> However, using typical `status indicators` as `action indicators` can indicate _{ {_.
+> ☶ changes their `status` to `||☶`.
+
+> However, using typical `status modifiers` as `action modifiers` can indicate at little `unchill` _{ {_.
 
 The `☶` actor is...
 
@@ -23,7 +25,7 @@ If an `actor` is being documented, sometimes they do not like their `identificat
 > ~💩NachoCheese
 
 ### Status Symmetry
-Seldomly, an `actor's` `status` can be represented as a `$wave`.  The left, could be the max and the right can be the min of the `$wave`.  `Reactions` are never `$waves` because of it's type of `permanance`.
+Sometimes, to emphasize a balanced or imbalanced `mood`, an `actor's` `status` can be represented as a `$wave`.  The left, could be the max and the right can be the min of the `$wave`.  
 
 > ++☶++
 

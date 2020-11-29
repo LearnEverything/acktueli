@@ -1,5 +1,5 @@
 ## React and Expel
-While documenting, there is always a `targeted` `actor` and an `acting` `actor`.  First an `actor` `reacts` internally to another `actor` and then either externalizes that reaction to the `targeted` actor, or changes the `mood` after a bit of conscious thinking. The `targeted` `actor` can be _implicit_ or _explicit_.  
+While documenting, there is always a `acting` `actor` and an `targeted` `actor` .  First an `actor` `reacts` internally to a preceeding `action` and then either externalizes that reaction to the `targeted` `actor`, or has a `change` in `mood` after a bit of conscious thinking. The `targeted` `actor` can be _implicit_ or _explicit_.  
 
 > +☶, the world is good.
 
@@ -18,20 +18,20 @@ There doesn't always have to be a change of `mood` between a `react` and `expel`
 
 If you see a `@` that means `targeted` or specifically `addressed`.
 
-> -☶- @admin, an unhappy `reaction`, but also `expels` negativity to admin.
+> -☶- @document0r, an unhappy `reaction`, but also `expels` negativity to @document0r.
 
 ### Waves
-(( admin )) chilling out
+(( document0r )) chilling out
 
-{{ admin }} stressing out
+{{ document0r }} stressing out
 
-({ admin )) admin was stressing out a little, but admin chills things out a bit
+({ act0r )) act0r was stressing out a little, but act0r chills things out a bit
 
 ### Assumed Actor
-If `☶` is _implicit_, then you can write that as _<-- +☶_.  
+If `☶` is _implicit_, it can be `documented` as _<-- +☶_.  
 
 If the `action` is targeted towards the `documenter` it is common to used _assumed reactions_.
 
-Look, you freed up a little bit more time, now you can make the `movement` more _expressive_ and `granular`!
+*Look, you freed up a little bit more time, now you can make the `movement` more _expressive_ and `granular`!*
 
 Sometimes, while being `#concise`, it is not necessary be as `#detailed` `☶: +☶ @admin`.  

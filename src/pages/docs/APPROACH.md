@@ -1,8 +1,11 @@
 ## Approach
-Different `approaches` are used with Acktueli.  It is helpful to know the consensus on `approach`, whether _explicit_ or _implicit_.  Depending on the `approach`, Acktueli can have different language rules.  Look for the `#` in this documentation as this will show that there is an `approach` to consider.
+While `documenting` Acktueli, different `approaches` can be used.  It is helpful to know the consensus on `approach`, whether _explicit_ or _implicit_.  Depending on the `approach`, Acktueli can have different language and communication rules.  Look for the `#` in this documentation as this will show that there might be an `approach` to consider.
 
 ### `#polite`
-Usually the first `approach` to be taken.  Document only `positive reactions` at first!!  Also, it might be good to also to be `#secretive`, but don't mention it.  Try also to keep the `volume` low.
+Usually the first `approach` to be taken.  Document only `positive reactions` at first!!  Also, it may be good to be `#secretive`, but don't mention it.. shhh.  Lastly, try to keep the `volume` low.
+
+### `#coding`
+If open curly braces aren't the `reader` or `documenter's` thing, then a less `#artistic` `approach` can be taken with certain programming syntax conventions... expecially when `documenting` `grouping`, `attribute` and `labels` with the `characters` _({[_.
 
 ### `#reserved`
 Acktueli's characters can cause conflicts with other platforms, an easy way to get around this might to prefix with `\`.  Other symbols like _@_ can be represented as to _(a)_ to have less conflicts these systems.
@@ -11,13 +14,17 @@ Acktueli's characters can cause conflicts with other platforms, an easy way to g
 Just a lot of clarification, `clipart`, and a lot of rule breaking.
 
 ### `#casual` 
-Sometimes you want to just want to use a little bit more `clipart` because things get boring.  Feel free to cast some spells and cause drama.
+Sometimes you want to just want to use a little bit more `clipart` because things get boring.  Feel free to cast some spells and make drama, but try not to be `#rude`.
 
 ### `#artistic`
 Heavy use of `clipart` for pure aethetic qualities to the point where it might not carry any semantic meaning.
 
 ### `#rude`
 23423dsiafaefa09efasoisadfawelkawjefaefaksljfdbwonk bwonk bwwonkknknknknn, bwonk bwonk.
+
+*bwooooonk bwonk*
+
+# bwonk
 
 ### `#detailed`
 Depending on conversation speed, more detail can be documented.

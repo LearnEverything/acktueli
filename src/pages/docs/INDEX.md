@@ -6,10 +6,11 @@ _Orthography Codex of Acktueli Lexicon_
 #### [Basic Syntax](./BASIC.md)
 #### [Approach](./APPROACH.md)
 #### [Acktueli](./ACKTUELI.md)
+#### [Cast](./CAST.md)
 
 ## Character
 #### [Character](./CHARACTER.md)
-#### [Indicators](./INDICATORS.md)
+#### [Modifiers](./Modifiers.md)
 #### [Direction](./DIRECTION.md)
 #### [Granularity](/GRANULARITY.md)
 
@@ -20,16 +21,16 @@ _Orthography Codex of Acktueli Lexicon_
 
 ## Expression
 #### [Clipart](./CLIPART.md)
-#### [Clipart Indicators](./CA_INDICATORS.md)
+#### [Clipart Modifiers](./CA_MODIFIERS.md)
 #### [Clipart Avatar](./CA_AVATAR.md)
 #### [Tone](./TONE.md)
 
 ## Reaction
 #### [React and Expel](./REACT_EXPEL.md)
 #### [Response](./RESPONSE.md)
-#### [Nuanced Indicators](./NUANCED_INDICATORS.md)
+#### [Nuanced MODIFIERS](./MODFIERS.md)
 #### [Complex](./COMPLEX.md)
-#### [Clarity](./CLARITY.md)
+#### [Resolution](./RESOLUTION.md)
 
 ## Time
 #### [Timing](./TIMING.md)
@@ -45,6 +46,9 @@ _Orthography Codex of Acktueli Lexicon_
 
 ## Syntax
 #### [Grouping](./GROUPING.md)
+#### [Attributes](./ATTRIBUTES.md)
+#### [Closure](/CLOSURE.md)
+
+## Comments, Meta, and Labels
 #### [Tags](./TAGS.md)
 #### [More](./MORE.md)
-#### [Attributes](./ATTRIBUTES.md)

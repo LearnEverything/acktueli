@@ -1,5 +1,5 @@
 ## Attributes
-Sometimes, data can be stored about an `actor` or `thing` that is `<semi-permanant>`, `<permanant>` but not `<lasting>`.
+Attributes are used to store data about an `actor` or `thing` that is `$semi-permanant`, `$permanant` but not `$lasting`.
 
 > 2[+]〠@☴
 
@@ -11,6 +11,6 @@ If one `actor` is accompanying another `actor`, it can be shown that the accompa
 > ☴[-☴]
 
 ### Location
-`Location` is a `<semi-permanant>` `attribute`.  To reference the location of something use ^.  For instance, ^☶ could mean the home of ☶ or where ☶ is currently.
+`Location` is a `$semi-permanant` `attribute`.  To reference the location of something use ^.  For instance, ^☶ could mean the home of ☶ or where ☶ is currently.
 
-☶: ☶?? --> ^☶ Where'd I put my keys?
+> ☶: ☶?? --> ^☶ Where'd I put my keys?

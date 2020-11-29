@@ -2,10 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+### [v0.3.5]
+> 11/29/2020
+
+/Once over, added cast page and `#coding` approach.
+
 ### [v0.3.3]
 > 11/29/2020
 
-Added tone, and more notes on #acktueli.
+Added tone, and more notes on #acktueli; the reader.
 
 ### [v0.3.0]
 > 11/24/2020

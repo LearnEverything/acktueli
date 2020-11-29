@@ -1,8 +1,8 @@
-## Nuanced Indicators
-Some `indicators` have more complex modification rules.
+## Nuanced Modifiers
+Some `modifiers` have more complex sytax rules.
 
-### Null Indicator
-#☴ contemplation without reaction or expelation
+### Null Modifiers
+#☴ contemplation without `reaction` or `expelation`
 
 ### Questioning
 `?` questioning
