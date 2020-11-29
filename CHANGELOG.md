@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+### [v0.3.3]
+> 11/29/2020
+
+Added tone, and more notes on #acktueli.
+
 ### [v0.3.0]
 > 11/24/2020
 

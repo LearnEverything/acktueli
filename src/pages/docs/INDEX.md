@@ -5,6 +5,7 @@ _Orthography Codex of Acktueli Lexicon_
 #### [Preface](./PREFACE.md)
 #### [Basic Syntax](./BASIC.md)
 #### [Approach](./APPROACH.md)
+#### [Acktueli](./ACKTUELI.md)
 
 ## Character
 #### [Character](./CHARACTER.md)
@@ -12,20 +13,23 @@ _Orthography Codex of Acktueli Lexicon_
 #### [Direction](./DIRECTION.md)
 #### [Granularity](/GRANULARITY.md)
 
+## Self
+#### [Identification](./IDENTIFICATION.md)
+#### [Self](./SELF.md)
+#### [Status](./STATUS.md)
+
 ## Expression
 #### [Clipart](./CLIPART.md)
-#### [Clipart Indicators](./INDICATORS_II.md)
-
-## Self
-#### [Self](./SELF.md)
-#### [Identification](./IDENTIFICATION.md)
-#### [Status](./STATUS.md)
+#### [Clipart Indicators](./CA_INDICATORS.md)
+#### [Clipart Avatar](./CA_AVATAR.md)
+#### [Tone](./TONE.md)
 
 ## Reaction
 #### [React and Expel](./REACT_EXPEL.md)
 #### [Response](./RESPONSE.md)
 #### [Nuanced Indicators](./NUANCED_INDICATORS.md)
 #### [Complex](./COMPLEX.md)
+#### [Clarity](./CLARITY.md)
 
 ## Time
 #### [Timing](./TIMING.md)

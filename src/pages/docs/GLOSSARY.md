@@ -1,5 +1,7 @@
 ## Glossary
 
+acknowledge
+
 actor
 
 action
