@@ -25,9 +25,3 @@ Sarcasm is a good example of `clipart`, meaning you have to look at how the char
 _And that, you now now more than you did before._
 >  o_o <-- [+]:Sunglasses:
 > -▱-▱-
-
-### Short
-
-It doesn't always have to use `clipart` but you can use a number system for example 1 - 4
-> . : .: ::
-Just make sure it's two characters otherwise, a documenter can use the `avatar notation`.

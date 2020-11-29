@@ -25,13 +25,4 @@ If you see a `@` that means `targeted` or specifically `addressed`.
 
 {{ document0r }} stressing out
 
-({ act0r )) act0r was stressing out a little, but act0r chills things out a bit
-
-### Assumed Actor
-If `☶` is _implicit_, it can be `documented` as _<-- +☶_.  
-
-If the `action` is targeted towards the `documenter` it is common to used _assumed reactions_.
-
-*Look, you freed up a little bit more time, now you can make the `movement` more _expressive_ and `granular`!*
-
-Sometimes, while being `#concise`, it is not necessary be as `#detailed` `☶: +☶ @admin`.  
+({ act0r )) act0r was stressing out a little, but act0r chills things out a bit 

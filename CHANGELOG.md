@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+### [v0.3.6]
+> 11/29/2020
+
+More organization, added `short` and `mood` and progressed the data and syntax sections.
+
 ### [v0.3.5]
 > 11/29/2020
 

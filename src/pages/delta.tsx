@@ -38,7 +38,7 @@ const DeltaPage = () => {
   return (
     <MDXMuiLayout>
       <Head>
-        <title>Acktueli[☶△]</title>
+        <title>Acktueli[◫△]</title>
         <link rel="icon" href="/favicon_io/favicon.ico" />
       </Head>
       <main>

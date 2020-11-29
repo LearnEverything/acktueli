@@ -19,6 +19,9 @@ Sometimes you want to just want to use a little bit more `clipart` because thing
 ### `#artistic`
 Heavy use of `clipart` for pure aethetic qualities to the point where it might not carry any semantic meaning.
 
+### `#interactive`
+This focuses on making the `documentation` more `interactive`.
+
 ### `#rude`
 23423dsiafaefa09efasoisadfawelkawjefaefaksljfdbwonk bwonk bwwonkknknknknn, bwonk bwonk.
 
