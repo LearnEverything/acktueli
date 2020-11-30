@@ -1,4 +1,6 @@
-## ☶ Acktueli ☶
+## ◫ Acktueli ◫
 _the language of △_
 
-[Synax](https://github.com/Shielkwamm/Acktueli/blob/master/src/pages/docs/INDEX.md)
+[Synax](src/pages/docs/INDEX.md)
+
+[Resolve](src/pages/docs/resolve/README.md)
