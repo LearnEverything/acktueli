@@ -1,5 +1,5 @@
 ## Noise
-Often, situations can get `noisey`.
+Often, a conversation can get `noisey`.
 
 ## Loudest Noise
 Without listening for any `action`, the recorder can direct their attention to a `thing` or `actor` and record any `noises` that are picked up.  Sometimes, it's a lot, sometimes it's a little, but in either situation the `loudest noise` will get recorded.

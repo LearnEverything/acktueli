@@ -2,10 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+### [v0.4.1]
+> 12/1/2020
+
+Organized `signal`, added `resolve` definition.
+
 ### [v0.4.0]
 > 11/30/2020
 
-Added documentation for `resolve`.
+Added documentation for `signal`.
 
 ### [v0.3.6]
 > 11/29/2020
