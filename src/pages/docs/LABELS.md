@@ -1,16 +1,18 @@
 ## Labels
-A label is an `attribute` that can be added to anything but an `actor`.
+`Labels` are intented to be human readable.
 
-> 🌍🔬 #main 4-4-20 {#main 👐🥁} having an thing or having an action
+### Placeholder
+Sometimes, a `placeholder` needs be set.
+> ~[]
+This should replace a `line` or a `block`, but for `content` it might be unclear to use.
 
-There isn't much difference between `labels` and `tags` and the terms can be used interchangeably using `#newbie`.  However, a single thing may have 2 - 3 `labels` where as it might have 20 - 30 `tags`.
+### Footnote
+If a `documenter` needs to make some footnotes, they can mark it with a label.
+> []footnote
 
-`Labels` can be comprised of `tags`.
+`Mood` or other `attributes` can be passed in.
+> [💻]footnote
 
- [!🎥: badTake] or complex reference? 
-`Labels` can be displayed as a name value pair.
-
-Come up with a better name for this.
-
-
-[☯+🦕💻]hRefUtef cipher reference
+-------------------------------------------------------------------------------------
+[💻]footnote
+> This is a computer footnote.  This might have technical information.

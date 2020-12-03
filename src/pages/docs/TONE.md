@@ -9,7 +9,7 @@ Because of the speed at which `tone` might change in a conversation, it's helpfu
 > I think this is a good idea:), so what do you think about it:).
 
 #### Subtext
-The first type of `subtext` is a plain text `documentation` of an `action` uses the `*_closure`.
+The first type of `subtext` is a plain text `documentation` of an `action` uses the `** closure`.
 
 ```
 _☶/x+ *not amused, but go ahead and make an ass of yourself*

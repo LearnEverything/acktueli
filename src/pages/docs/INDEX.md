@@ -46,8 +46,8 @@ _Orthography Codex of Acktueli Lexicon_
 ## Place or Thing
 #### [Things](./THINGS.md)
 #### [Targeting](./TARGETING.md)
-#### [Preposition](./PREPOSITION.md)
 #### [Amount](./AMOUNT.md)
+#### [Place](./PLACE.md)
 
 ## Syntax
 #### [Grouping](./GROUPING.md)
@@ -56,6 +56,6 @@ _Orthography Codex of Acktueli Lexicon_
 #### [Relation](/RELATION.md)
 
 ## Data
-#### [Labels](./Labels.md)
+#### [Labels](./LABELS.md)
 #### [Meta](./META.md)
 #### [Tags](./Tags.md)

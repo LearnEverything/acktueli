@@ -33,23 +33,8 @@ When transitioning to something else, sometimes there is a speed up or slow down
 
 > In `( All )`, it's not really annoying to see up to a full line of `resolution` to document direction qualities.
 
-### Notation Type 2
-`Change over time` can be represented with a different notation.  The <<<=== style of seems more of a `relative` to the previous arrow, where as ↓↑+↑+ feels more `absolute` or independant of each preceeding `modifier`.
-
-`Qualitative` type to express more `loudness`
-
---=-->, `oweoh`
-===--> , `ooohhh`
-↓↑↓, `oweoh`
-↑-↓, `ooohh`
-
 ### Is it an <interval> or <repeating>?
 Normally, it is `polite` to use only 3 repeating glyphs in a `status`.  Usually when you see 1 - 3 of `↓` it is `$semi-permanant`, sometimes, when things are `#fun` it could represent something `$repeating`, however 5 or more could represent an `$interval`.
 
-### Rising and Falling Emotion
-Rising-falling vs expanding-contracting
-↑↑↓↑↓☶, this indicates that someone's reaction might change over time
+#### TODO expanding-contracting
 
-☶: +☶, @admin, I see that smile!
-
-admin: \_☶↓↑↑↑↑↓↓↓↓↓↓↓↓_-☶ 

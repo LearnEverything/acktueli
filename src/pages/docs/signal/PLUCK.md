@@ -1,12 +1,12 @@
 ## Pluck
-`Plucking` is almost like starting a new `conversation` about a subject within an existing `conversation`.
+`Plucking` is almost like starting a new `conversation` about a subject whether it be a `thing` or an `actor`.
 > <-- subject -- `documenter`
 
-Usually, the `documenter` is the one `plucking` so they can be can be implicitly defined and omitted.
+Usually, the `documenter` is the one `plucking` so their reference can be _implicit_ defined and omitted.
 > <-- subject --
 
 ### Communication Pluck
-`Communication pluck` uses `quick` to listen to loudest noise on a given subject.  The `[_closure` indiacates this is a `group` of `actors` relating to the _subject_.
+`Communication pluck` uses `quick` to listen to `loudest noise` on a given subject.  The `[_closure` indiacates this is a `group` of `actors` relating to the _subject_.
 ```
 <-- [subject] ---
 [-->

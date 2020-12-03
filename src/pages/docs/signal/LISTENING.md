@@ -1,13 +1,20 @@
 ## Listening
+A `documenter` is paying attention to an `actor` is the same as the `documenter` is listening to the `actor's` `signal`.  As with any conversation, sometimes a `documenter` has to really focus is the `actor's` `signal` is weak.  A `documenter` can improve the `actor's` `signal quality` by simply asking the `actor` to speak up or for everyone else to be `#polite`.
 
-### Documenter vs Listener
-`Documenting` is typically straight forward and there can be a consensus on what is `documented`.  
+Sometimes it is not clear if the `signal` is `retrieved` or `recieved`.
 
-However, the role of the `listener` in Acktueli almost becomes an operator in that they focus on `indentifying` `consensus`. 
+### Recieved Signal
+Listening without a `subject`.  A `documenter` will document all `signals`.
 
-Sometimes it is not clear is communication is coming though `passive` listening or `active` listening.
+Common signals intercepted:
+* `Actors` wanting to `resolve` their `identification`.
+* feature requests
+* expectations
 
-### Passive Listening
-A `documenter` will document all `signals` however it is a listeners job to attenuate and deattenuate certain `signals`.
+Unfortunately, these could be `echos` or a `homunuclus`, but there is a slight chance it might not be the previous ◬.
 
-### Active Listening
+### Retrieved Signal
+Usually there is an objective or sometimes you just want to say Merry Christmas to someone you love.  Sometimes you reach the `homunculus` answering machine.
+
+*What's a `Homunculus`*
+> Seems like a small, fully formed `actor`?

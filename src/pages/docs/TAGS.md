@@ -1,10 +1,25 @@
 ## Tags
-Tags usually provide clear insight or act as a borrowed syntax from another language or can be used to increase the readability to humans or robots.
+Tags usually provide clear insight or act as a borrowed syntax from another language or can be used to increase the readability for humans or robots.
 
-### Obvious and Clarification
-Sometimes, the `reaction` needs to be made more `#obvious` and can denote something with `* *`.  Othertimes, the `reaction` needs to be made more `clear`.  Usually, `documenting` subtext makes things more clear, but to have further documentation without `tone` assumptions, one can use the `{}`.
+### Subtext as Action Tag
+Usually, using `subtext` describing the `action` can make `documentations` clearer. If a `documenter` sticks to some naming conventions in `subtext`, it more easily picked up as `action tags` by a robot.  This might be important later on for robots to know that +[] is *good*.
 
 ### I'm too lazy to find the emoji 
 :emojiHere:
 
-This sentence might have some tags. ;asdfdasf
+### Edits
+
+[ censored ]
+[ redacted ] --- edits?
+
+//-------------------------
+
+> //why are square brackets used for this?
+
+### Tags vs Labels
+The terms `tags` and `labels` can often be can be used interchangably.  However `labels` are not inclined to use the `** closure`
+> [🎥: filmThis]
+
+Also, depending on the context of use affects whether it is referenced as a `tag` or `label`.
+
+There isn't much difference between `labels` and `tags` and the terms can be used interchangeably using `#newbie`.  However, a single thing may have 2 - 3 `labels` where as it might have 20 - 30 `tags`.

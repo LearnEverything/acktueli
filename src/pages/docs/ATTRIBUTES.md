@@ -10,7 +10,30 @@ If one `actor` is accompanying another `actor`, it can be shown that the accompa
 
 > ☴[-☴]
 
-### Location
-`Location` is a `$semi-permanant` `attribute`.  To reference the location of something use ^.  For instance, ^☶ could mean the home of ☶ or where ☶ is currently.
+### Managing Expectations
 
-> ☶: ☶?? --> ^☶ Where'd I put my keys?
+b backlog 		t todo		d doing			o done			x blocked
+ 
+[o↑] Assign @☴ a gender 🔬
+[t[-]☴↑↑] organize your paste bin entries
+[[+]t↑↑🔬] +🔬☴ proof read current content
+ 
+💻 ---> ☸
+[t] ++🔬+💻 admins and admin panel
+[b] 🔬☴+◯ metaphors
+[t] +!☴ Operat0r burger phones
+
+### Preposition
+
+`[], {}, and ()` are used as prepositions which feel similiar to `attributes`.   In fact, being _of something_ could be considered an `attribute` and a _preposition_.
+
+admin[^house]
+
+This is inspired by dot notation
+
+
+admin.^house
+
+with/ without
+from/ to
+of
