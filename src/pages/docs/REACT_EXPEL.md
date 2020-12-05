@@ -20,9 +20,11 @@ If you see a `@` that means `targeted` or specifically `addressed`.
 
 > -☶- @document0r, an unhappy `reaction`, but also `expels` negativity to @document0r.
 
-### Waves
-(( document0r )) chilling out
+### Chill Waves
+Typically, `chill waves` representation is symmetrical.
+> (( document0r )) chilling out
 
-{{ document0r }} stressing out
+> {{ document0r }} stressing out or alerted
 
-({ act0r )) act0r was stressing out a little, but act0r chills things out a bit 
+But to imply more complex emotions, an asymetrical 
+> ({ act0r )) act0r tries to chill everyone out at the actors own expense

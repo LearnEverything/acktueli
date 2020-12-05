@@ -1,7 +1,14 @@
 ## Grouping
 
-## Grouping with {, (, or [ 
-Depending on which { } vs [ ] vs ( ) is used, these can have different semantic changes to the datastructure.  Sometimes, however, they have no semantic change, it just makes everything clearer to read... use sparingly.
+### Generic References within Groups
+> 3:18 AM [☶] adds +m to [☶]
+The brackets here represent one `actor` of a `group`.  `Context` is important, because here, one `actor` of is muting another `actor` of the `group` ☶.  Otherwise this statement could mean that the group [☶] mutes itself.
+
+### Grouping with #
+#☶ this could indicate a group for ☶.  #[☶]  This means a group for the group ☶.
+
+### Grouping Actions
+`Grouping` can be notated with any closure `closure` however, { } vs [ ] vs ( ) all have can _semantic_ affects when used to `group` `actions`.
 
 { -☶, -☶ } indicates _simultaneous_
 
@@ -11,9 +18,8 @@ also [ -☶.. ☶ ] using the more specific time interval notation
 
 *messy people don't put spaces between their brackets and their statements*
 
-## Generic References within Groups
-The brackets here represent one `member` of a `group`.  `Context` is important, because here, one `actor` of is muting another `actor` of ☶.  Otherwise this statement could mean that the group [☶] mutes itself.
-3:18 AM [☶] adds +m to [☶]
+### Grouping Actors with (
+  grouping targeted actors used ()
+> 7:16 Admin: @(☱,Ω); ||🍝|| -💻☯🔥 == +/o🦠🦠
 
-## Grouping with #
-#☶ this could indicate a group for ☶.  #[☶]  This means a group for the group ☶.
+possibly handled by closure

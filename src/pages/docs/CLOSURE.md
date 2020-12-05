@@ -1,19 +1,20 @@
 ## Closure
-A closure is a set opening and closing characters.  Proper closure is considered important to many `documentors` and `readers`, in `#coding` expecially.
+A `closure` is a set opening and closing characters.  Proper closure is considered important to many `documentors` and `readers`; in `#coding` expecially.
 
 ### Feels
-To make things confusing, `closures` in general can be subsituted for other characters.  For example, the typical `closure` characters also share the character space as `wave` characters to help denote the enclosed syntax is modified by the `wave`.  Usually, the `[` is nuetral in expressive qualities, so when in doubt, use the `[]` closure.
+`Semantic` `closure` characters can be subsituted for more `visually expressive` characters since the typical `#coding` `closure` characters, `{(<` also share the same character space as the `wave` characters in Acktueli.  Sometimes, a little bit of `mood` is needed to be `documented` wihthin the closure.  However, the `[` _feels_ pretty nuetral in expressive qualities, so when in doubt, use the `[]` closure.
 
-With `Subtext`, a `documenter` be careful using specific `closures` as they might have `tone` assumptions or affect the `comparison` between the `action` and the `subtext`.
-
-> ☶: +☶?+, *shrugs*
-> ☶: +☶?+, {shrugs}
-> ☶: +☶?+, _shrugs_
-> ☶: +☶?+, |shrugs|
-> ☶: +☶?+, [shrugs]
+With `Subtext`, a `documenter` needs to be careful using specific `closures` as they might have `visually expressive` `tone` assumptions.  Also this might change the affect of the `relationship` between the `action` and the `subtext`.
+```
+☶: +☶?+, *shrugs*
+☶: +☶?+, {shrugs}
+☶: +☶?+, _shrugs_
+☶: +☶?+, |shrugs|
+☶: +☶?+, [shrugs]
+```
  
 ### Omission
-To confuse `readers` even more, sometimes the `documenter` can omit some `closures` just for `#succinity` or to show a stronger relationship.
+Sometimes the `documenter` can omit some `closures` just for `#succinity` or to show a stronger relationship.
 
 > +☕☱ //☱ is drinking good coffee *or* ☱ has a 1 good cup of coffee
 > 2[+☕]@☱ //☱ has 2 good tasting cups of coffee

@@ -2,7 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+### [v0.4.3]
+12/4/2020
+
+Reorganized content, improved intro and code section.
+
 ### [v0.4.2]
+> 12/3/2020
+
+Cleaned up `signal` and `data`.
 
 ### [v0.4.1]
 > 12/1/2020

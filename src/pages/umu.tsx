@@ -61,6 +61,7 @@ const UmuPage = () => {
         </Typography>
         <Typography variant="body2"><em>Which glyph represents you?</em></Typography>
         <Typography variant="body2">☶[umu]: I happen to be a ☶ (mountain).</Typography>
+        <Typography variant="body2">☶[umu]: The proper way to acknowledge me is to say oh "uwu" and the other person says, no it's pronounced "umu".</Typography>
         {/*content*/}
       </main>
       <style jsx>{`

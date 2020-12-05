@@ -1,9 +1,10 @@
 ## Direction
+There are many different ways that a `documenter` can notate `direction`.
 ```
-\>
-\<
-\v
-\^
+>
+<
+v
+^
 ```
 
 Pretty self explanitory.

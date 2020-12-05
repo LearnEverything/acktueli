@@ -20,3 +20,16 @@ A label is an `attribute` that can be added to anything but an `actor`.
 
 ### Meta vs Tags vs Labels
 Tags and Labels can both be considered `meta`.  The main difference between `meta` and others is that `tags` and `labels` are more sortable where as `meta` might have some kind of `action` or `state` change.
+
+### Managing Expectations
+
+b backlog 		t todo		d doing			o done			x blocked
+ 
+[o↑] Assign @☴ a gender 🔬
+[t[-]☴↑↑] organize your paste bin entries
+[[+]t↑↑🔬] +🔬☴ proof read current content
+ 
+💻 ---> ☸
+[t] ++🔬+💻 admins and admin panel
+[b] 🔬☴+◯ metaphors
+[t] +!☴ Operat0r burger phones
