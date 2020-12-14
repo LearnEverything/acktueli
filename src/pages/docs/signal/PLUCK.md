@@ -9,10 +9,10 @@ Usually, the `documenter` is the one `plucking` so their reference can be _impli
 `Communication pluck` uses `quick` to listen to `loudest noise` on a given subject.  The `[_closure` indiacates this is a `group` of `actors` relating to the _subject_.
 ```
 <-- [subject] ---
-[-->
-> 
+  > subject is cool
+  < yeah, I agree
 
-]
+---
 ```
 
 ### Image Pluck
@@ -20,4 +20,14 @@ Usually, the `documenter` is the one `plucking` so their reference can be _impli
 ```
 <-- ^subject ---
 ^--> *image description*
+```
+
+### Inline Rules
+```
+<-- ^subject ---
+  <-- relating subject ---
+    > all the way over here!
+    < yup
+  ---
+---
 ```

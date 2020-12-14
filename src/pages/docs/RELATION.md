@@ -1,6 +1,5 @@
 ## Relations
-
-#### relations
+Relationships can be represented by many `characters`.
 ```
 :
 ==
@@ -9,34 +8,32 @@
 .
 ```
 
-## Call And Response
+### Equality
+Name value pairs can be used to show that something _is_ something else.
 
-#### Comparison Verification or Question.
-call and response with name-value pair 
 7:02: Admin: @☱ ✔☕: ☯o☯
 
-Indicate a 1 to one ratio or metaphor
+The equal syntax from javascript can also be used to show `strict` equality or `loose` equality.
 
+Admin == ☱
+
+### Timing
+Whenever `.` or `:` or `,` is used, this can affect the timing interpretation of the conversation.
+```
+: at the same time
+, sequential
+.. a time interval
+```
+
+### Preposition
+`[], {}, and ()` are used as _preposition_s which is a type of relationship. 
+
+Usually the `[]` is used as this syntax was inspired by dot notation.
+
+> admin[^house] 
+> admin.^house
+
+### Possesion
 > 2[+]〠@☴
 
 ☴ is the owner of 2[+]〠.
-
-### Leader
-If one `actor` is accompanying another `actor`, it can be shown that the accompanying actor is an `attribute`.
-
-> ☴[-☴]
-
-### Preposition
-
-`[], {}, and ()` are used as prepositions which feel similiar to `attributes`.   In fact, being _of something_ could be considered an `attribute` and a _preposition_.
-
-admin[^house]
-
-This is inspired by dot notation
-
-
-admin.^house
-
-with/ without
-from/ to
-of

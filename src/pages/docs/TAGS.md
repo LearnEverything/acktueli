@@ -7,15 +7,6 @@ Usually, using `subtext` describing the `action` can make `documentations` clear
 ### I'm too lazy to find the emoji 
 :emojiHere:
 
-### Edits
-
-[ censored ]
-[ redacted ] --- edits?
-
-//-------------------------
-
-> //why are square brackets used for this?
-
 ### Tags vs Labels
 The terms `tags` and `labels` can often be can be used interchangably.  However `labels` are not inclined to use the `** closure`
 > [🎥: filmThis]

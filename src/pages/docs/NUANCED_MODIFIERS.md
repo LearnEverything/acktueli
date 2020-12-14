@@ -19,3 +19,16 @@ Some `modifiers` have more complex sytax rules.
 `!` negates emotion it is used right next to the `avatar`.
 
 +!☴ not good
+
+### Crescendoing emotion
+``
++☴/ going up!
++☴\ going down
+``
+
+### Exhausted
+```
+__☴ exhausted, delay reaction because of tiredness
+____☴ very exhausted
+☴____________ very very exhausted delayed initiation because of tiredness
+```

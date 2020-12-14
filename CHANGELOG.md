@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+### [v0.4.4]
+12/14/2020
+
+Added state, room and a few reactions.
+
 ### [v0.4.3]
 12/4/2020
 

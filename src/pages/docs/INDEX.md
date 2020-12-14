@@ -20,9 +20,13 @@ _Orthography Codex of Acktueli Lexicon_
 * [Closure](/CLOSURE.md)
 * [Grouping](./GROUPING.md)
 * [Relation](/RELATION.md)
-* [Labels](./LABELS.md)
-* [Meta](./META.md)
+* [Documentation](./DOCUMENTATION.md)
 * [Tags](./Tags.md)
+
+## Data
+* [State](./STATE.md)
+* [Meta](./META.md)
+* [Room](./ROOM.md)
 
 ## Expression
 * [Clipart](./CLIPART.md)
@@ -57,6 +61,3 @@ _Orthography Codex of Acktueli Lexicon_
 * [Targeting](./TARGETING.md)
 * [Amount](./AMOUNT.md)
 * [Place](./PLACE.md)
-* [World](./WORLD.md)
-
-+1#

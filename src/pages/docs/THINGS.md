@@ -17,6 +17,10 @@ Both the `qualitative and quantitative modifiers` are usually put on the left, a
 1 very small forehead kiss to admin
 
 @admin<--- 2[+]〠@☴
+@admin<--- 2[+〠]@☴
+
+admin -- 2[+〠] --> ☴ 
+admin -- 2[+〠] --> 2[++〠]☴ 
 
 Notice the anchor point is attached to admin to show a quick pocketing of that special forehead kiss.
 
@@ -24,4 +28,4 @@ Notice the anchor point is attached to admin to show a quick pocketing of that s
 Statuses are always static, but static isn't always status.  The fact that every `thing` has a `parent` is a `static` property of that `thing`.
 
 ### Side
-`Things` on the left side of the `actor` can indicate the `actor` is displaying or more generous with said thing.  Things on the right could be more possessive, secretive or secure.
+`Things` on the left side of the `actor` can indicate the `actor` is displaying or more generous with said thing.  `Things` on the right could be more possessive, secretive or secure, it might not be considered `#polite` to display things on the right side of the `actor`.

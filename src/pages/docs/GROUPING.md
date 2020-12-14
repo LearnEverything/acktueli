@@ -5,7 +5,7 @@
 The brackets here represent one `actor` of a `group`.  `Context` is important, because here, one `actor` of is muting another `actor` of the `group` ☶.  Otherwise this statement could mean that the group [☶] mutes itself.
 
 ### Grouping with #
-#☶ this could indicate a group for ☶.  #[☶]  This means a group for the group ☶.
+#☶ this could indicate a group of or for ☶.  Also can be represented with for clarity #[☶].
 
 ### Grouping Actions
 `Grouping` can be notated with any closure `closure` however, { } vs [ ] vs ( ) all have can _semantic_ affects when used to `group` `actions`.
@@ -23,3 +23,8 @@ also [ -☶.. ☶ ] using the more specific time interval notation
 > 7:16 Admin: @(☱,Ω); ||🍝|| -💻☯🔥 == +/o🦠🦠
 
 possibly handled by closure
+
+### Leader
+If one `actor` is accompanying another `actor`, it can be shown that the accompanying actor is an `attribute`.
+
+> ☴[-☴]

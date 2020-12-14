@@ -27,3 +27,8 @@ If the compound `reaction` contains more than 2 actions, it is more than likely 
 
 Also `$intervals` can be used between the `reactions` instead of commas to improve `granularity`.
 > ☴: [+☴.. ...☴?- ..-☴[-]], Cool, wait what? Oh no I didn't agree to that.
+
+### Self Disagreement
+Sometimes, someone will say something which they internally disagree with.
+
+☴: ☴+, I want to go to the ~![store and get more icecream].
