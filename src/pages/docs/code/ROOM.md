@@ -3,5 +3,5 @@ Sometimes, there are `actions` without an `actor`; these could be `room` message
 
 Conversations are always contained within a `room` and sometimes there are `rooms` specifically made to store data about `actors` or `things`.
 
-## Global
+### Global
 An `actors` status change should be considered `global`.
