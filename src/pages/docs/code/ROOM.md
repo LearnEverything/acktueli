@@ -5,3 +5,6 @@ Conversations are always contained within a `room` and sometimes there are `room
 
 ### Global
 An `actors` status change should be considered `global`.
+
+### Grouping with #
+#☶ this could indicate a group of or for ☶.  Also can be represented with for clarity #[☶].

@@ -2,7 +2,7 @@
 A `closure` is a set opening and closing characters.  Proper closure is considered important to many `documentors` and `readers`; in `#coding` expecially.
 
 ### Feels
-`Semantic` `closure` characters can be subsituted for more `visually expressive` characters since the typical `#coding` `closure` characters, `{(<` also share the same character space as the `wave` characters in Acktueli.  Sometimes, a little bit of `mood` is needed to be `documented` wihthin the closure.  However, the `[` _feels_ pretty nuetral in expressive qualities, so when in doubt, use the `[]` closure.
+`Semantic` `closure` characters can be subsituted for more `visually expressive` characters since the typical `#coding` `closure` characters, `{(<` also share the same character space as the `wave` characters in Acktueli.  Sometimes, a little bit of `mood` is needed to be `documented` wihthin the closure.  However, in `#acktueli`, the `[` _feels_ pretty nuetral in expressive qualities, so when in doubt, use the `[]` closure.
 
 With `Subtext`, a `documenter` needs to be careful using specific `closures` as they might have `visually expressive` `tone` assumptions.  Also this might change the affect of the `relationship` between the `action` and the `subtext`.
 ```

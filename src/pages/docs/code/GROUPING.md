@@ -4,11 +4,8 @@
 > 3:18 AM [☶] adds +m to [☶]
 The brackets here represent one `actor` of a `group`.  `Context` is important, because here, one `actor` of is muting another `actor` of the `group` ☶.  Otherwise this statement could mean that the group [☶] mutes itself.
 
-### Grouping with #
-#☶ this could indicate a group of or for ☶.  Also can be represented with for clarity #[☶].
-
 ### Grouping Actions
-`Grouping` can be notated with any closure `closure` however, { } vs [ ] vs ( ) all have can _semantic_ affects when used to `group` `actions`.
+`Grouping` can be notated with any closure `closure` however, { } vs [ ] vs ( ) all have can _semantic_ effects when used to `group` `actions`.
 
 { -☶, -☶ } indicates _simultaneous_
 

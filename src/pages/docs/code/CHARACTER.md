@@ -1,15 +1,17 @@
 ## Character
-Any utf-8 characters can be used in Acktueli. However certain care must be taken because certain characters also have `visually expressive` qualities as well as `notation` qualities.  
+Any utf-8 characters can be used in Acktueli.
 
-Single characters in `notation` can be `composible` to create new `semantic` value.
+Single characters in series can be `composed` to create a new `semantic` value.
+```
++ good
+++ better
+```
 
-> + good
-> ++ better
-
-Also, while deciding which characters to use in notation, they usually follow the more is more principle.  
-> two lines, = is more than one line, -
+It is important to also pay attention to how the character looks visually.  For example, here are two documented movements: `<---` and `<===`, in this case, more is more; the `=` is more than `-` because of the visual count of the lines, not their mathmatical operation.
 
 ### Visually Expressive Qualities
+Certain care must be taken because certain characters have both `visually expressive` qualities as well as `notation` qualities.  
+
 Characters in a series are already used in a visual expressive way in `#notacktueli`, _:-)_.  However, in Acktueli, single character's visual impact must also be taken into account, not just when characters are in a series. For example, `(` looks more _chill_ than `{` or `O` could represent more or larger than `o`.
 
 `Visually expressive` characters used represent `qualitative` values, however it is not considered `#detailed` to use them as `quantitative` representations.  For example, `+` is generally interpreted as good or more, but `+.+`... is that a beached squid or is the `documenter` adding things together?

@@ -32,3 +32,10 @@ __☴ exhausted, delay reaction because of tiredness
 ____☴ very exhausted
 ☴____________ very very exhausted delayed initiation because of tiredness
 ```
+
+### Disgust
+```
+j☴j
+j☴ I'm showing disgust
+☴j I'm showing politeness, but really disgusted
+```
