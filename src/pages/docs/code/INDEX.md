@@ -6,16 +6,18 @@
 * [Direction](./DIRECTION.md)
 
 ## Syntax
-* [Closure](/CLOSURE.md)
+* [Closure](./CLOSURE.md)
 * [Grouping](./GROUPING.md)
-* [Relation](/RELATION.md)
+* [Context](./CONTEXT.md)
+* [Relation](./RELATION.md)
 * [Documentation](./DOCUMENTATION.md)
-* [Tags](./Tags.md)
+* [Tags](./TAGS.md)
 
 ## Data
 * [State](./STATE.md)
 * [Meta](./META.md)
 * [Room](./ROOM.md)
+* [Granularity](./GRANULARITY.md)
 
 ## Expression
 * [Clipart](./CLIPART.md)
@@ -24,7 +26,7 @@
 
 ## _Time_
 * [Timing](./TIMING.md)
-* [Permanance](./PERMANACE.md)
+* [Permanence](./PERMANENCE.md)
 * [Rate](./RATE.md)
 * [Change](./CHANGE.md)
 

@@ -1,5 +1,5 @@
-## Permanance
-There are different types of `permanance` that are recognized in this documentation with the `$permananceType` notation.
+## Permanence
+There are different types of `permanence` that are recognized in this documentation with the `$permananceType` notation.
 
 ### `$switch`
 Like an on an off switch.  If an `actor` never changes the switch position, it might remain in that state `$permanantly`.
@@ -8,7 +8,7 @@ Like an on an off switch.  If an `actor` never changes the switch position, it m
 An `actor` can have a `$lasting` impression.
 
 ### `$interval`
-A specific amount of time passing.  Most `$single` `actions` also have `<interval>` `permanance`, because it is known how much time passed before the pervious `action` and the next `action`.
+A specific amount of time passing.  Most `$single` `actions` also have `<interval>` `permanence`, because it is known how much time passed before the pervious `action` and the next `action`.
 
 ### `$repeating`
 A repeated `$interval` that is `$semi-permanant`.
@@ -17,7 +17,7 @@ A repeated `$interval` that is `$semi-permanant`.
 A back and forth variation that is usually just `$lasting>` and rarely `$semi-permanent`.
 
 ### `$single`
-`Permanance` that lasts within the time period of a single line of communication.  This is the default `permanance` unless otherwise specified.
+`Permanance` that lasts within the time period of a single line of communication.  This is the default `permanence` unless otherwise specified.
 
 ### `$block`
 `Permanance` that lasts within the time period of a groups single line communication.  This might be denotated with a `[]` to mark the block.

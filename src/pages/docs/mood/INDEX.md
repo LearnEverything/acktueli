@@ -2,10 +2,9 @@
 ## Reaction
 * [React and Expel](./REACT_EXPEL.md)
 * [Response](./RESPONSE.md)
-* [Nuanced Modifiers](./MODFIERS.md)
+* [Nuanced Modifiers](./NUANCED_MODFIERS.md)
 * [Complex](./COMPLEX.md)
 * [Resolution](./RESOLUTION.md)
-* [Granularity](/GRANULARITY.md)
 * [Tone](./TONE.md)
 
 ## Self
