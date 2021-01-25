@@ -2,18 +2,13 @@ import path from "path";
 import { Link } from "@vulcanjs/next-material-ui"; // "next/link";
 import { listMdxFiles } from "@vulcanjs/mdx";
 import { List, ListItem, Typography } from "@material-ui/core";
-import Head from "next/head";
 
 const DocIndex = ({ pages = [] }) => (
   <div style={{ margin: "32px auto", maxWidth: "1000px" }}>
-    <Head>
-        <title>Acktueli[Syntax]</title>
-        <link rel="icon" href="/favicon_io/favicon.ico" />
-      </Head>
     <Typography variant="h1">
-    ☶[Syntax]
+      <img src="/img/vns-logo-96.png" style={{ marginRight: "32px" }} />
+      VNS Live Documentation
     </Typography>
-    <Typography variant="body1"><em>Orthography Codex of Acktueli Lexicon</em></Typography>
     <List>
       {pages.map((pageName) => (
         <Link key={pageName} href={`/docs/${pageName}`}>

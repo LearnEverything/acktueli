@@ -23,12 +23,12 @@ import { useApollo } from "@vulcanjs/next-apollo";
 function VNApp({ Component, pageProps }: AppProps) {
   useMuiApp(); // comment to disable Material UI
   const apolloClient = useApollo(pageProps.initialApolloState, {
-    graphqlUri: "http://localhost:3000/api/graphql",
+    graphqlUri: "https://one-zork.herokuapp.com/graphql",
   }); // you can also easily setup ApolloProvider on a per-page basis
   return (
     <>
       <Head>
-        <title>Acktueli</title>
+        <title>Vulcan Next</title>
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"

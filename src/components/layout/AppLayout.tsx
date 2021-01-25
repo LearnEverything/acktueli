@@ -5,7 +5,7 @@
  * so that changing layout for certain pages is easier
  */
 import { typeScale } from "~/lib/style/typography";
-import SideNav from "../../components/layout/SideNav";
+import Footer from "./Footer";
 
 interface AppLayoutProps {
   children: React.ReactNode;
@@ -13,8 +13,8 @@ interface AppLayoutProps {
 
 const AppLayout = ({ children }: AppLayoutProps) => (
   <div className="global">
-    {/*<SideNav/>*/}
-    {children}
+    <main>{children}</main>
+    <Footer />
     <style jsx global>{`
       /* FIXME: ignore errors when using "vscode-styled-jsx", as we also use PostCSS */
       /* Typescale */

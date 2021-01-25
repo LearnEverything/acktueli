@@ -14,5 +14,4 @@ export const StPostCSS = () => (
     </style>
   </div>
 );
-
 export default StPostCSS;

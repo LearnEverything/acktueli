@@ -18,6 +18,14 @@ plugins.push([
   },
 ]);
 
+// // Fixe for pragmaFrag issue @see https://github.com/vercel/next.js/issues/11230
+// plugins.push([
+//   "@babel/plugin-transform-react-jsx",
+//   {
+//     runtime: "classic",
+//   },
+// ]);
+
 module.exports = {
   // we also need next/babel preset to work with Next
   presets: [
