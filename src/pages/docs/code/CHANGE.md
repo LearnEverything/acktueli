@@ -33,7 +33,7 @@ When transitioning to something else, sometimes there is a speed up or slow down
 
 > In `( All )`, it's not really annoying to see up to a full line of `resolution` to document direction qualities.
 
-### Is it an <interval> or <repeating>?
+### Is it an \<interval\> or \<repeating\>?
 Normally, it is `polite` to use only 3 repeating glyphs in a `status`.  Usually when you see 1 - 3 of `↓` it is `$semi-permanant`, sometimes, when things are `#fun` it could represent something `$repeating`, however 5 or more could represent an `$interval`.
 
 #### TODO expanding-contracting
