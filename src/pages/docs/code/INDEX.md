@@ -1,37 +1,37 @@
 # Code 
 ## Character
-* [Character](./CHARACTER.md)
-* [Short](./SHORT.md)
-* [Modifiers](./MODIFIERS.md)
-* [Direction](./DIRECTION.md)
+* [Character](CHARACTER)
+* [Short](SHORT)
+* [Modifiers](MODIFIERS)
+* [Direction](DIRECTION)
 
 ## Syntax
-* [Closure](./CLOSURE.md)
-* [Grouping](./GROUPING.md)
-* [Context](./CONTEXT.md)
-* [Relation](./RELATION.md)
-* [Documentation](./DOCUMENTATION.md)
-* [Tags](./TAGS.md)
+* [Closure](CLOSURE)
+* [Grouping](GROUPING)
+* [Context](CONTEXT)
+* [Relation](RELATION)
+* [Documentation](DOCUMENTATION)
+* [Tags](TAGS)
 
 ## Data
-* [State](./STATE.md)
-* [Meta](./META.md)
-* [Room](./ROOM.md)
-* [Granularity](./GRANULARITY.md)
+* [State](STATE)
+* [Meta](META)
+* [Room](ROOM)
+* [Granularity](GRANULARITY)
 
 ## Expression
-* [Clipart](./CLIPART.md)
-* [Clipart Modifiers](./CA_MODIFIERS.md)
-* [Clipart Avatar](./CA_AVATAR.md)
+* [Clipart](CLIPART)
+* [Clipart Modifiers](CA_MODIFIERS)
+* [Clipart Avatar](CA_AVATAR)
 
 ## _Time_
-* [Timing](./TIMING.md)
-* [Permanence](./PERMANENCE.md)
-* [Rate](./RATE.md)
-* [Change](./CHANGE.md)
+* [Timing](TIMING)
+* [Permanence](PERMANENCE)
+* [Rate](RATE)
+* [Change](CHANGE)
 
 ## _Person, Place, or Thing_
-* [Things](./THINGS.md)
-* [Targeting](./TARGETING.md)
-* [Amount](./AMOUNT.md)
-* [Place](./PLACE.md)
+* [Things](THINGS)
+* [Targeting](TARGETING)
+* [Amount](AMOUNT)
+* [Place](PLACE)

@@ -1,16 +1,16 @@
 ## ◫[Syntax]
 _Orthography Codex of Acktueli Lexicon_
 
-## [◫ Database](./DATABASE.md)
+## [◫ Database](DATABASE.md)
 
 # _Intro_
-* [Acktueli◫](./ACKTUELI.md)
-* [Basic Syntax](./BASIC.md)
-* [Approach](./APPROACH.md)
-* [Roles](./ROLES.md)
+* [Acktueli◫](docs/ACKTUELI)
+* [Basic Syntax](docs/BASIC)
+* [Approach](docs/APPROACH)
+* [Roles](docs/ROLES)
 
-# [_Code_](./code/INDEX.md)
+# [_Code_](docs/code/INDEX)
 
-# [_Mood_](./mood/INDEX.md)
+# [_Mood_](docs/mood/INDEX)
 
-# [_Signal_](./signal/INDEX.md)
+# [_Signal_](docs/signal/INDEX)
