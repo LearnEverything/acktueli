@@ -6,6 +6,9 @@ import { useMuiApp } from "@vulcanjs/next-material-ui";
 import { SCThemeProvider, MuiThemeProvider } from "~/components/providers";
 import Head from "next/head";
 
+import { useEffect } from 'react';
+import { initGA, logPageView } from '../utils/analytics';
+
 import debug from "debug";
 import AppLayout from "~/components/layout/AppLayout";
 const debugPerf = debug("vns:perf");
@@ -25,6 +28,11 @@ function VNApp({ Component, pageProps }: AppProps) {
   const apolloClient = useApollo(pageProps.initialApolloState, {
     graphqlUri: "https://one-zork.herokuapp.com/graphql",
   }); // you can also easily setup ApolloProvider on a per-page basis
+  
+  useEffect(() => {
+    initGA()
+    logPageView()
+  });
   return (
     <>
       <Head>

@@ -6,6 +6,7 @@
  */
 import { typeScale } from "~/lib/style/typography";
 import Footer from "./Footer";
+import Head from "next/head";
 
 interface AppLayoutProps {
   children: React.ReactNode;
