@@ -3,6 +3,6 @@ _the language of △_
 
 ### [u◫u](/umu)
 
-### [syntax](/docs)
+### [syntax](/docs/INDEX)
 
 ### [◫△](/delta)

@@ -26,6 +26,7 @@ module.exports = {
     // @see https://medium.com/storybookjs/storybook-controls-ce82af93e430
     "@storybook/addon-controls",
     "@storybook/addon-a11y",
+    "storybook-css-modules-preset",
     // @see https://github.com/vercel/next.js/issues/19345
     // "@next/plugin-storybook",
   ],

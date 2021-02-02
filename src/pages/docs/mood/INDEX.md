@@ -2,7 +2,7 @@
 ## Reaction
 * [React and Expel](REACT_EXPEL)
 * [Response](RESPONSE)
-* [Nuanced Modifiers](NUANCED_MODFIERS)
+* [Nuanced Modifiers](NUANCED_MODIFIERS)
 * [Complex](COMPLEX)
 * [Resolution](RESOLUTION)
 * [Tone](TONE)

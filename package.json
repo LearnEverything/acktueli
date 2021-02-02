@@ -89,7 +89,6 @@
     "react-spring": "^8.0.27",
     "styled-components": "^5.1.1",
     "styled-components-modifiers": "^1.2.5",
-    "styled-jsx": "^3.3.0",
     "styled-jsx-plugin-postcss": "^3.0.2",
     "swr": "^0.4.0"
   },
@@ -111,8 +110,8 @@
     "eslint-plugin-react-hooks": "^2.5.0",
     "graphql-voyager": "^1.0.0-rc.31",
     "react-is": "^16.13.1",
-    "shelljs": "^0.8.4",
     "source-map-support": "^0.5.19",
+    "storybook-css-modules-preset": "^1.0.5",
     "ts-loader": "^7.0.5",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.0"
@@ -144,6 +143,7 @@
     "jest-transformer-mdx": "^2.2.0",
     "nyc": "^15.1.0",
     "serve": "^11.3.2",
+    "shelljs": "^0.8.4",
     "start-server-and-test": "^1.11.0"
   }
 }
