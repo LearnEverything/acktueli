@@ -8,7 +8,7 @@ Usually, using `subtext` describing the `action` can make `documentations` clear
 :emojiHere:
 
 ### Tags vs Labels
-The terms `tags` and `labels` can often be can be used interchangably.  However `labels` are not inclined to use the `** closure`
+The terms `tags` and `labels` can often be can be used interchangeably.  However `labels` are not inclined to use the `** closure`
 > [🎥: filmThis]
 
 Also, depending on the context of use affects whether it is referenced as a `tag` or `label`.

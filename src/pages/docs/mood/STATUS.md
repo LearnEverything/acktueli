@@ -2,7 +2,7 @@
 So far, we've seen `reaction` as a type of `action`, but sometimes the `documenter` needs to describe the `actors` state of being or `status`.  Knowing the `status` will help the `reader` better understand the `context` of the `actor`.
 
 ### Reaction vs Status
-What is the difference between a state of being and a flash of emotion?  Just a difference in `$interval` length.  An `actor's mood` is `$lasting`.  The `$lasting` is a type of `permanance` we'll call `status`.  
+What is the difference between a state of being and a flash of emotion?  Just a difference in `$interval` length.  An `actor's mood` is `$lasting`.  The `$lasting` is a type of `permanence` we'll call `status`.  
 
 We'll assume the actor is reacting in the context of these `$lasting reaction`.
 

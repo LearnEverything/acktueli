@@ -1,5 +1,5 @@
 ## Things
-`Things` cannot produce `reactions` unless they are _personified_.  However, `things` can have histories that can affect their _qualititive_ aspects.  `Things` also don't mind if you quantify them in different ways.  Most `things` are an attribute of an `actor`, but they don't get in trouble if they aren't _implicit_. Just because the `thing` is by itself, doesn't mean that it is alone.
+`Things` cannot produce `reactions` unless they are _personified_.  However, `things` can have histories that can affect their _qualitative_ aspects.  `Things` also don't mind if you quantify them in different ways.  Most `things` are an attribute of an `actor`, but they don't get in trouble if they aren't _implicit_. Just because the `thing` is by itself, doesn't mean that it is alone.
 
 `Things` also don't have _reflexive_ properties.
 
@@ -11,7 +11,7 @@ Both the `qualitative and quantitative modifiers` are usually put on the left, a
 ### Things as an Attribute 
 15 ☴[+👀] - the `actor` _☴_ is the `parent` of 15 kinda good eyeballs 
 
-> Also can be notated as @ in `#casual` instead of ^.  The speration between the `thing` and the `parent` become unclear.
+> Also can be notated as @ in `#casual` instead of ^.  The seperation between the `thing` and the `parent` become unclear.
 
 ### Thing Movement
 1 very small forehead kiss to admin

@@ -7,7 +7,7 @@ v
 ^
 ```
 
-Pretty self explanitory.
+Pretty self explanatory.
 
 ```
 <--
@@ -15,7 +15,7 @@ Pretty self explanitory.
 -->
 ```
 
-Also, pretty self explanitory.
+Also, pretty self explanatory.
 
 ```
 ↑

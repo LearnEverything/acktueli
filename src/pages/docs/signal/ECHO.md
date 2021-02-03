@@ -10,4 +10,4 @@ Sometimes, a `reaction` seems to come with strong another `echo`.  Why the squar
 
 Or the `actor` reacts to their own `reaction` ☶: {{ +☶ }} <-- {{ ☶ }}.
 
-This could indicate that `documenter` is both `retrieving` and `recieving` an `actor's` `signal`. ◬
+This could indicate that `documenter` is both `retrieving` and `receiving` an `actor's` `signal`. ◬

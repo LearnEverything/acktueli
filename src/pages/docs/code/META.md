@@ -2,7 +2,7 @@
 Sometimes there is the need to display the change of `data` in a conversation.
 > [5:20 PM: --❤ -> +++👀 ☶]: [-]/o☴
 
-Usually, the `documenter` will not put a `closure` around the action and the punctiation used can be used to denote sequentiality or relatedness.  In `#reserved` a special dilimeter may be used to seperate the `action` and the `meta`.
+Usually, the `documenter` will not put a `closure` around the action and the punctuation used can be used to denote sequentiality or relatedness.  In `#reserved` a special delimiter may be used to separate the `action` and the `meta`.
 
 // these are really just action without an actor displaying relations between the actors.
 > 5:20 PM: --❤ -> +++👀 ☶, [-]/o☴
@@ -10,7 +10,7 @@ Usually, the `documenter` will not put a `closure` around the action and the pun
 > 5:20 PM: --❤ -> +++👀 ☶: [-]/o☴ 
 
 ### This is meta 
-> Also a `label` because of this situation, the identifying coorelation is elevated 👐🥁, ie someone could call it the 👐🥁 channel.
+> Also a `label` because of this situation, the identifying correlation is elevated 👐🥁, ie someone could call it the 👐🥁 channel.
 
 A label is an `attribute` that can be added to anything but an `actor`.
 

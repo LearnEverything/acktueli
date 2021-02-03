@@ -1,7 +1,7 @@
 ## Modifiers
 The use of `modifiers` can affect a `mood` or physical properties of an `action`.
 
-The two basic types of `modifiers` are `mood modifiers`, which is _qualitative_, and `amount modifiers`, which is _quantiative_.  Some characters such as `+` can be as both depending on what it is `modifing`.
+The two basic types of `modifiers` are `mood modifiers`, which is _qualitative_, and `amount modifiers`, which is _quantitative_.  Some characters such as `+` can be as both depending on what it is `modifying`.
 
 ### Mood
 `Mood modifiers` are usually used in a _reflexive_ context with an `avatar`.
@@ -14,7 +14,7 @@ The two basic types of `modifiers` are `mood modifiers`, which is _qualitative_,
 
 `_` not amused
 
-`o` suprised
+`o` surprised
 
 ### Amount
 `+` more
@@ -32,6 +32,6 @@ _The actor `☶` reacts with..._
 
 `/-☶` *half* unhappy (expresses some duality of emotions or ambivalence)
 
-`[+o]☶` a tiny bit, good suprised
+`[+o]☶` a tiny bit, good surprised
 
 `[---]☶` *only a tiny bit* really, really, very unhappy, or "inside voice"

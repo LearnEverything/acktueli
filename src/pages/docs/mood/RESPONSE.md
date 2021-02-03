@@ -6,7 +6,7 @@ Sometimes conversation goes a little bit quicker or there is a need to show reac
 ### Interjection
 > ☶: +☶, I think that's a good idea..
 > <-- ☶: -☶-, NO 
-The `<--` denotes the strength of the _inerjection_.  Also, since this is an _interjection_, the `$interval` of _.._ is is halved.
+The `<--` denotes the strength of the _interjection_.  Also, since this is an _interjection_, the `$interval` of _.._ is is halved.
 
 ### Tone Response
 ☶: ☶, do you agree with me <+☶, okay cool, good to hear <+☶.

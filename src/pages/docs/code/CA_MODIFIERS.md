@@ -1,4 +1,4 @@
-## Clipart as Modifers
+## Clipart as Modifiers
 
 ### Sarcasm
 /) Does that look like a smug grin to you?  Did you almost miss it?  Pay attention! You might miss the sarcasm `modifier` as well!

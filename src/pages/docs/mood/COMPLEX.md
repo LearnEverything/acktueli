@@ -1,5 +1,5 @@
 ## Complex
-Compound `reactions` from a single `actor` usually come in 2s and have an extended set of rules to denote the relationship between the `actor's` simultaneous or near simultaneuous `reaction`.
+Compound `reactions` from a single `actor` usually come in 2s and have an extended set of rules to denote the relationship between the `actor's` simultaneous or near simultaneous `reaction`.
 
 ### Duality
 
@@ -7,11 +7,11 @@ More information about the nature of the duality can be documented, sometimes an
 
 > ☴: { [_]☴ && ☴/+ } *go ahead and redact that & oh that's fine* sometimes you agree with yourself
 
-> ☴: { [_]☴ || ☴/+ } *go ahead and redact that | oh that's fine* and othertimes, you don't know the right answer
+> ☴: { [_]☴ || ☴/+ } *go ahead and redact that | oh that's fine* and other times, you don't know the right answer
 
 ...And even more information can be displayed to show which `reaction` the `actor` views as the "correct" way to `react`.
 
-> ☴: { [_]☴ ||--> ☴/+ } *go ahead and redact that | oh I'm leaning tword that's fine*
+> ☴: { [_]☴ ||--> ☴/+ } *go ahead and redact that | oh I'm leaning toward that's fine*
 
 ### Facade
 

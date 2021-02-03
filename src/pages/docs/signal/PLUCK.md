@@ -6,7 +6,7 @@ Usually, the `documenter` is the one `plucking` so their reference can be _impli
 > <-- subject --
 
 ### Communication Pluck
-`Communication pluck` uses `quick` to listen to `loudest noise` on a given subject.  The `[_closure` indiacates this is a `group` of `actors` relating to the _subject_.
+`Communication pluck` uses `quick` to listen to `loudest noise` on a given subject.  The `[_closure` indicates this is a `group` of `actors` relating to the _subject_.
 ```
 <-- [subject] ---
   > subject is cool

@@ -1,9 +1,9 @@
 ## Listening
 A `documenter` is paying attention to an `actor` is the same as the `documenter` is listening to the `actor's` `signal`.  As with any conversation, sometimes a `documenter` has to really focus is the `actor's` `signal` is weak.  A `documenter` can improve the `actor's` `signal quality` by simply asking the `actor` to speak up or for everyone else to be `#polite`.
 
-Sometimes it is not clear if the `signal` is `retrieved` or `recieved`.
+Sometimes it is not clear if the `signal` is `retrieved` or `received`.
 
-### Recieved Signal
+### Received Signal
 Listening without a `subject`.  A `documenter` will document all `signals`.
 
 Common signals intercepted:

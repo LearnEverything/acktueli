@@ -33,7 +33,7 @@ Usually the `[]` is used as this syntax was inspired by dot notation.
 > admin[^house] 
 > admin.^house
 
-### Possesion
+### Possession
 > 2[+]〠@☴
 
 ☴ is the owner of 2[+]〠.

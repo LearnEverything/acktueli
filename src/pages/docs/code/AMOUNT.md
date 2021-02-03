@@ -6,7 +6,7 @@
 ☶☶☶ can be three or a large crowd
 
 Both ☶ and admin have a `reaction` of ☶...
-> `#detailed` verison: ☶, admin: ☶
+> `#detailed` version: ☶, admin: ☶
 
 > `#secretive` version: ☶☶: ☶
 

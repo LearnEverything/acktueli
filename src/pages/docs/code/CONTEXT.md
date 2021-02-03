@@ -8,4 +8,4 @@ Context is a `mood` that encapsulates a part to many lines of a conversation.  T
   ☶: I'm very busy
 ]
 ```
-This means that all `actions` from the `actor` _☶_, must be interpreted through the `context` of the `status` listed at the begining.  Often when this is present, the underlying `context` is acertained at a later moment of the `actions` that it describes.
+This means that all `actions` from the `actor` _☶_, must be interpreted through the `context` of the `status` listed at the beginning.  Often when this is present, the underlying `context` is ascertained at a later moment of the `actions` that it describes.

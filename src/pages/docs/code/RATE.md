@@ -8,7 +8,7 @@ Depending on the scenario and dialogue speed, sometimes it is useful to go fast 
 > HEY HEEY HEYHEY
 > OMG
 
-> Becareful with this one, using too much `quick` can almost defeat the purpose of Acktueli.
+> Be careful with this one, using too much `quick` can almost defeat the purpose of Acktueli.
 
 Quick can use other _single_ characters to denote different "voices".
 

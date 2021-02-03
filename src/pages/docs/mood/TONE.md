@@ -13,8 +13,8 @@ The first type of `subtext` is a plain text `documentation` of an `action` uses 
 
 ```
 _☶/x+ *not amused, but go ahead and make an ass of yourself*
-++☶?[+] *amused and cautiously optomistic*
-++☶ *Lol*.. that was funney.. *looks at document0r*.. I still think it's funny.
+++☶?[+] *amused and cautiously optimistic*
+++☶ *Lol*.. that was funny.. *looks at document0r*.. I still think it's funny.
 ```
 
 Also `subtext` can acts as `tags` in `#coding`.

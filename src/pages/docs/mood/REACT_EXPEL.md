@@ -1,5 +1,5 @@
 ## React and Expel
-While documenting, there is always a `acting` `actor` and an `targeted` `actor` .  First an `actor` `reacts` internally to a preceeding `action` and then either externalizes that reaction to the `targeted` `actor`, or has a `change` in `mood` after a bit of conscious thinking. The `targeted` `actor` can be _implicit_ or _explicit_.  
+While documenting, there is always a `acting` `actor` and an `targeted` `actor` .  First an `actor` `reacts` internally to a preceding `action` and then either externalizes that reaction to the `targeted` `actor`, or has a `change` in `mood` after a bit of conscious thinking. The `targeted` `actor` can be _implicit_ or _explicit_.  
 
 > +☶, the world is good.
 
@@ -26,5 +26,5 @@ Typically, `chill waves` representation is symmetrical.
 
 > {{ document0r }} stressing out or alerted
 
-But to imply more complex emotions, an asymetrical 
+But to imply more complex emotions, an asymmetrical 
 > ({ act0r )) act0r tries to chill everyone out at the actors own expense

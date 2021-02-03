@@ -1,5 +1,5 @@
 ## Targeting
-To direct something to another `actor` or `thing`, simplely use @ symbol.
+To direct something to another `actor` or `thing`, simply use @ symbol.
 > ☶: +☶, @actor
 
 > ☶: +☶ ---> @actor

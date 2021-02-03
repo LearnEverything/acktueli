@@ -1,7 +1,7 @@
 ## Mathy
 
 ### Notation Type 2
-`Change over time` can be represented with a different notation.  The <<<=== style of seems more of a `relative` to the previous arrow, where as ↓↑+↑+ feels more `absolute` or independant of each preceeding `modifier`.
+`Change over time` can be represented with a different notation.  The <<<=== style of seems more of a `relative` to the previous arrow, where as ↓↑+↑+ feels more `absolute` or independent of each preceding `modifier`.
 
 `Qualitative` type to express more `loudness`
 
