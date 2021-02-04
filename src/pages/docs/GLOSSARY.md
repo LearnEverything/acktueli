@@ -32,5 +32,5 @@ resolution
 
 status
 
-permanance
+permanence
 
