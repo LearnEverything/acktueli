@@ -1,15 +1,15 @@
 # _Mood_
 ## Reaction
-* [React and Expel](REACT_EXPEL)
-* [Response](RESPONSE)
-* [Nuanced Modifiers](NUANCED_MODIFIERS)
-* [Complex](COMPLEX)
-* [Resolution](RESOLUTION)
-* [Tone](TONE)
+* [React and Expel](mood/react-expel)
+* [Response](mood/response)
+* [Nuanced Modifiers](mood/nuanced-modifiers)
+* [Complex](mood/complex)
+* [Resolution](mood/resolution)
+* [Tone](mood/tone)
 
 ## Self
-* [Identification](IDENTIFICATION)
-* [Self](SELF)
-* [Mood](MOOD)
-* [Context](CONTEXT)
-* [Status](STATUS)
+* [Identification](mood/identification)
+* [Self](mood/self)
+* [Mood](mood/mood)
+* [Context](mood/context)
+* [Status](mood/status)

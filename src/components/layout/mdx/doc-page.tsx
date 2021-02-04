@@ -7,7 +7,7 @@ import MDXMuiLayout from "../MDXMuiLayout";
 
 const indexLink = (
   <div style={{ margin: "32px auto", maxWidth: "1000px" }}>
-    <Link href="/docs/INDEX">
+    <Link href="/docs">
       <Typography>Back to documentation index</Typography>
     </Link>
   </div>

@@ -1,37 +1,37 @@
 # Code 
 ## Character
-* [Character](CHARACTER)
-* [Short](SHORT)
-* [Modifiers](MODIFIERS)
-* [Direction](DIRECTION)
+* [Character](code/character)
+* [Short](code/short)
+* [Modifiers](code/modifiers)
+* [Direction](code/direction)
 
 ## Syntax
-* [Closure](CLOSURE)
-* [Grouping](GROUPING)
-* [Context](CONTEXT)
-* [Relation](RELATION)
-* [Documentation](DOCUMENTATION)
-* [Tags](TAGS)
+* [Closure](code/closure)
+* [Grouping](code/grouping)
+* [Context](code/context)
+* [Relation](code/relation)
+* [Documentation](code/documentation)
+* [Tags](code/tags)
 
 ## Data
-* [State](STATE)
-* [Meta](META)
-* [Room](ROOM)
-* [Granularity](GRANULARITY)
+* [State](code/state)
+* [Meta](code/meta)
+* [Room](code/room)
+* [Granularity](code/granularity)
 
 ## Expression
-* [Clipart](CLIPART)
-* [Clipart Modifiers](CA_MODIFIERS)
-* [Clipart Avatar](CA_AVATAR)
+* [Clipart](code/clipart)
+* [Clipart Modifiers](code/clipart-modifiers)
+* [Clipart Avatar](code/clipart-avatar)
 
 ## _Time_
-* [Timing](TIMING)
-* [Permanence](PERMANENCE)
-* [Rate](RATE)
-* [Change](CHANGE)
+* [Timing](code/timing)
+* [Permanence](code/permanence)
+* [Rate](code/rate)
+* [Change](code/change)
 
 ## _Person, Place, or Thing_
-* [Things](THINGS)
-* [Targeting](TARGETING)
-* [Amount](AMOUNT)
-* [Place](PLACE)
+* [Things](code/things)
+* [Targeting](code/targeting)
+* [Amount](code/amount)
+* [Place](code/place)

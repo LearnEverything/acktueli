@@ -41,6 +41,7 @@ const UmuPage = () => {
       <Head>
         <title>Acktueli[u☶u]</title>
         <link rel="icon" href="/favicon_io/favicon.ico" />
+        <meta name="description" content="Sometimes, Uwu will help you to learn Acktueli... I think... Umu? Umu? Are you awake??"></meta>
       </Head>
       <main>
         <Umu />
