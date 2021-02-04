@@ -7,7 +7,7 @@ export const Home = () => (
   <>
   <Head>
       <link rel="icon" href="/favicon_io/favicon.ico" />
-      <meta name="description" content="You have Acktueli found the language of Shielkwamm!"></meta>
+      <meta name="description" content="Acktueli, the language of △Shíelkwamm△!"></meta>
     </Head>
   <div>
     <HomeMd />
