@@ -1,7 +1,8 @@
 ## ◫[Syntax]
 _Orthography Codex of Acktueli Lexicon_
 
-## [◫ Database](/docs/database)
+- [◫ Database](/docs/database)
+- [Glossary](/glossary)
 
 # _Intro_
 * [Acktueli◫](/docs/acktueli)
