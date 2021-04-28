@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+### [v0.4.6]
+4/28/2021
+
+Added a touch of `mass`.
+
 ### [v0.4.5]
 4/28/2021
 
