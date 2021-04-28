@@ -12,6 +12,10 @@ _Orthography Codex of Acktueli Lexicon_
 
 # [_Code_](/docs/code)
 
+# [_Address_](/docs/address)
+
 # [_Mood_](/docs/mood)
 
 # [_Signal_](/docs/signal)
+
+# [_Process_](/docs/process)

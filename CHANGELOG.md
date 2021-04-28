@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+### [v0.4.5]
+4/28/2021
+
+Added rough drafts for `address` and `process`.
+
 ### [v0.4.4]
 12/14/2020
 

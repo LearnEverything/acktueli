@@ -37,3 +37,5 @@ Usually the `[]` is used as this syntax was inspired by dot notation.
 > 2[+]〠@☴
 
 ☴ is the owner of 2[+]〠.
+
+If the possession is towards `address`, this means it is more transactional or giving towards the `address`, but something on the right side or away might be more holding or treasured.
