@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+### [v0.5.0]
+4/28/2021
+
+Changed _sequential_ and _simultaneus_ grouping syntax for grouped `actions`.
+
 ### [v0.4.6]
 4/28/2021
 
