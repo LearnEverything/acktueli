@@ -17,5 +17,3 @@ _Orthography Codex of Acktueli Lexicon_
 # [_Mood_](/docs/mood)
 
 # [_Signal_](/docs/signal)
-
-# [_Process_](/docs/process)
