@@ -7,9 +7,9 @@ The brackets here represent one `actor` of a `group`.  `Context` is important, b
 ### Grouping Actions
 `Grouping` can be notated with any closure `closure` however, { } vs [ ] vs ( ) all have can _semantic_ effects when used to `group` `actions`.
 
-{ -☶, -☶ } indicates _simultaneous_
+,[ -☶, -☶ ] indicates _simultaneous_
 
-[ -☶, ☶+ ] indicates _sequential_
+.[ -☶, ☶+ ] indicates _sequential_
 
 also [ -☶.. ☶ ] using the more specific time interval notation
 
