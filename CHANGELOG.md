@@ -2,14 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
-<<<<<<< HEAD
-=======
+### [v0.6.0]
+6/9/2021
+
+Added acktionable.
+
 ### [v0.5.0]
 4/28/2021
 
 Changed _sequential_ and _simultaneus_ grouping syntax for grouped `actions`.
 
->>>>>>> e25b52bb44b737c1d1b7c8ffe4841acfd4377d1e
 ### [v0.4.6]
 4/28/2021
 
@@ -18,11 +20,7 @@ Added a touch of `mass`.
 ### [v0.4.5]
 4/28/2021
 
-<<<<<<< HEAD
-Added rough drafts for `address`.
-=======
 Added rough draft for `address`.
->>>>>>> e25b52bb44b737c1d1b7c8ffe4841acfd4377d1e
 
 ### [v0.4.4]
 12/14/2020
